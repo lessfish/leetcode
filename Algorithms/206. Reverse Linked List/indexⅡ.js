@@ -15,14 +15,23 @@
  */
 
 var reverseList = function(head) {
-  if (head === null || head.next === null)
-    return head;
+  var ans = [];
 
-  var next = head.next;
-  head.next = null;
-  var newHead = reverseList(next);
-  next.next = head;
+  while (head) {
+    var node = new ListNode(head.val);
+    ans.push(node);
+    head = head.next;
+  }
 
-  return newHead;
+  ans.reverse();
+
+  if (!ans.length)
+    return null;
+
+  for (var i = 0, len = ans.length; i < len - 1; i++) {
+    ans[i].next = ans[i + 1];
+  }
+
+  return ans[0];
 };
 

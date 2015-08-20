@@ -15,14 +15,15 @@
  */
 
 var reverseList = function(head) {
-  if (head === null || head.next === null)
-    return head;
+  var pre = null;
 
-  var next = head.next;
-  head.next = null;
-  var newHead = reverseList(next);
-  next.next = head;
+  while (head) {
+    var next = head.next;
+    head.next = pre;
+    pre = head;
+    head = next;
+  }
 
-  return newHead;
+  return pre;
 };
 
