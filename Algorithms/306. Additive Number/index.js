@@ -1,4 +1,4 @@
-// Source : hhttps://leetcode.com/problems/additive-number/
+// Source : https://leetcode.com/problems/additive-number/
 // Author : Han Zichi
 // Date   : 2016-01-09
 
