@@ -50,5 +50,3 @@ var threeSumClosest = function(nums, target) {
 
   return ans;
 };
-
-console.log(threeSumClosest([0,1,2],3))
