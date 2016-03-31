@@ -8,6 +8,5 @@ If you **give this project a star**, I'll be quite thankful!
 
 | # | Title | Source Code | Description | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
-| 338 | Counting Bits | JavaScript | Description | Medium |
-| 338 | Verify Preorder Serialization of a Binary Tree | JavaScript | Description | Medium |
+| 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | :blue_book: |  | Easy |
 | 338 | Counting Bits | JavaScript | Description | Medium |
