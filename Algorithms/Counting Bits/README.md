@@ -1,6 +1,6 @@
 There is a quick way to calculate the 1 bits in one number converting to a binary number, as below:
 
-```
+```javascript
 var hammingWeight = function(n) {
   n = ((n & 0xAAAAAAAA) >>> 1) + (n & 0x55555555);
   n = ((n & 0xCCCCCCCC) >>> 2) + (n & 0x33333333);
