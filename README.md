@@ -1,8 +1,8 @@
-# leetcode
+# :pencil2: Leetcode Solutions with JavaScript
 
-:pencil2: LeetCode solutions with JavaScript (up-to-date)
+**Mar 31. 2016: I decide to add solutions with simple descriptions to each problem I have solved, to practise my writing English, as well as recording something.** 
 
-**I decide to add solutions with simple descriptions to each problem I solved since Mar 31. 2016**
+If you give me a star, I'll be quite thankful!
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
