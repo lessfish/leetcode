@@ -1,4 +1,4 @@
-There is a quick way to calculate the 1 bits in one binary number, as below:
+There is a quick way to calculate the 1 bits in one number converting to a binary number, as below:
 
     var hammingWeight = function(n) {
       n = ((n & 0xAAAAAAAA) >>> 1) + (n & 0x55555555);

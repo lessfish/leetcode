@@ -6,7 +6,7 @@ If you **give this project a star**, I'll be quite thankful!
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
-| # | Title | Source Code | Description | Difficulty |
+| # | Title | Source Code | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | :blue_book: |  | Easy |
-| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | JavaScript | Description | Medium |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/counting-bits.js) | [Solution](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/README.md) | Medium |
