@@ -11,4 +11,5 @@ If you **give this project a star**, I'll be quite thankful!
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | :blue_book: |  | Easy |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/counting-bits.js) | [Solution](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/README.md) | Medium |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/House%20Robber%20III/house-robber-iii.js) | [Solution](https://github.com/hanzichi/leetcode/blob/master/Algorithms/House%20Robber%20III/README.md) | Medium |
-
+| 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |
+| 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | 
