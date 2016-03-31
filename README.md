@@ -12,4 +12,5 @@ If you **give this project a star**, I'll be quite thankful!
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/counting-bits.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/README.md) | Medium |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/House%20Robber%20III/house-robber-iii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/House%20Robber%20III/README.md) | Medium |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |
-| 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | 
+| 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/335.%20Self%20Crossing/self-crossing.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/335.%20Self%20Crossing/README.md) | Medium |
+
