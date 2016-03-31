@@ -1,6 +1,7 @@
 # leetcode
-LeetCode Problems' Solutions (up-to-date)
 
-with *JavaScript*
+:pencil2: LeetCode solutions with JavaScript (up-to-date)
 
-thanks for your code review and provide me with a better solution
+| # | Title | Code | Solution | Difficulty |
+|:---:|:---:|:---:|:---:|:---:|
+| 338 | Counting Bits | JavaScript | Solution | Medium |
