@@ -6,7 +6,7 @@ If you **give this project a star**, I'll be quite thankful!
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
-| # | Title | Solution | Description | Difficulty |
+| # | Title | Source Code | Description | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 | 338 | Counting Bits | JavaScript | Description | Medium |
 | 338 | Verify Preorder Serialization of a Binary Tree | JavaScript | Description | Medium |
