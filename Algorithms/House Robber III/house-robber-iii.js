@@ -30,7 +30,7 @@ function dfs(node) {
   node.dp = [];
   // node.dp[0] 表示取了该节点的最值
   // node.dp[1] 表示不取该节点的最值
-
+  
   if (node.left === null && node.right === null) {
     node.dp[0] = node.val;
     node.dp[1] = 0;
