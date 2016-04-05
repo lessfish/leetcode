@@ -1,0 +1,3 @@
+We define two variables `first` and `second` as the first two of the increasing subsequence of length 3, and `first2` and `second2` as the "backup", we replace `first2` and `second2` for `first` and `second` at the right time.
+
+Here comes an example. If the array is `[1, 2, -3, -2, -1]`, firstly, `first = 1`, and `second = 2`, then comes `first2 = -3, second2 = -2`. After comparing, we replace `first2 = -3, second2 = -2` for `first = 1, second = 2`, because it is more likely to reach the goal.
