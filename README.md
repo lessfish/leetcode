@@ -14,3 +14,7 @@ If you **give this project a star**, I'll be quite thankful!
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |
 | 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Self%20Crossing/self-crossing.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Self%20Crossing/README.md) | Medium |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Increasing%20Triplet%20Subsequence/increasing-triplet-subsequence.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Increasing%20Triplet%20Subsequence/README.md) | Medium |
+| 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | :blue_book: |  | Medium |
+| 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | 
