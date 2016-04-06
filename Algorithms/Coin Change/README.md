@@ -1,6 +1,6 @@
 An easy dynamic programming problem.
 
-We define `ans[i]` as the fewest numbers that we can make up the amount `i`, and if can not, we define it as the value `undefined`, then we can enum every number that the array `coins` give, update the array `ans`, finally to check if the value `ans[amount]`.
+We define `ans[i]` as the fewest numbers that we can make up the amount `i`, and if can not, we define it as the value `undefined`, then we can enum every number that the array `coins` give, update the array `ans`, finally to check the value `ans[amount]`.
 
 The recursion is as below:
 
