@@ -17,4 +17,5 @@ If you **give this project a star**, I'll be quite thankful!
 | 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | :blue_book: |  | Medium |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
-| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | 
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Patching%20Array/patching-array.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Patching%20Array/README.md) | Medium |
+
