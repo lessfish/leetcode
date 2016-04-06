@@ -21,4 +21,5 @@ If you **give this project a star**, I'll be quite thankful!
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) |
 | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | 
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Three/power-of-three.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Three/README.md) | Easy |
+

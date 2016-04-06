@@ -1,1 +1,1 @@
-Use `Math.log`, as well as considering the **accuracy**.
+Use `Math.log`, don't forget to consider the **accuracy**.
