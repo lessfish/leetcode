@@ -1,1 +1,0 @@
-Use `Math.log`, as well as considering the **accuracy**.
