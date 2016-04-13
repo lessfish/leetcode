@@ -1,0 +1,1 @@
+I don't think it's worth thinking of. I just use the algorithm as [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) does, solving it with O(10^8), not only not tle, but also getting a quite acceptable ranking.
