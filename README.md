@@ -1,6 +1,6 @@
-# :pencil2: Leetcode Solutions with JavaScript
-
 > I decide to add solutions **with simple descriptions** to each problem I have solved, to practise my written English, as well as recording something. —— Mar 31. 2016
+
+# :pencil2: Leetcode Solutions with JavaScript
 
 If you **give this project a star**, I'll be quite thankful!
 
