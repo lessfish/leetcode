@@ -40,6 +40,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | :blue_book: |  | Hard |
-| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | 
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Mutable/range-sum-query-mutable.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Mutable/README.md) | Medium |
+| 306 | [Additive Number](https://leetcode.com/problems/additive-number/) | 
 
 
