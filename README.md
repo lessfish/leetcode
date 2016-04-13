@@ -32,5 +32,6 @@ If you **give this project a star**, I'll be quite thankful!
 | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) |
 | 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | :blue_book: |  | Hard |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |
-| 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | 
+| 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [JavaScript](https://github.com/hanzichi/leetcode/tree/master/Algorithms/Count%20of%20Smaller%20Numbers%20After%20Self) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Count%20of%20Smaller%20Numbers%20After%20Self/README.md) | Hard |
+
 
