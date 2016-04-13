@@ -41,6 +41,8 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | :blue_book: |  | Hard |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Mutable/range-sum-query-mutable.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Mutable/README.md) | Medium |
-| 306 | [Additive Number](https://leetcode.com/problems/additive-number/) | 
+| 306 | [Additive Number](https://leetcode.com/problems/additive-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Additive%20Number/additive-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Additive%20Number/README.md) | Medium |
+| 305 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | :blue_book: |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | 
 
 
