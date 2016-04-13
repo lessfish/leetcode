@@ -2,7 +2,7 @@
 
 # :pencil2: Leetcode Solutions with JavaScript
 
-If you **give this project a star**, I'll be quite thankful!
+If you **give this Repo. a star**, I'll be quite thankful!
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
