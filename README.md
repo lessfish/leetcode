@@ -35,6 +35,11 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [JavaScript](https://github.com/hanzichi/leetcode/tree/master/Algorithms/Count%20of%20Smaller%20Numbers%20After%20Self) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Count%20of%20Smaller%20Numbers%20After%20Self/README.md) | Hard |
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | :blue_book: |  | Medium |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Super%20Ugly%20Number/super-ugly-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Super%20Ugly%20Number/README.md) | Medium |
-
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) |
+| 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | :blue_book: |  | Medium |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
+| 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | :blue_book: |  | Hard |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | 
 
 
