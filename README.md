@@ -34,6 +34,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [JavaScript](https://github.com/hanzichi/leetcode/tree/master/Algorithms/Count%20of%20Smaller%20Numbers%20After%20Self) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Count%20of%20Smaller%20Numbers%20After%20Self/README.md) | Hard |
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | :blue_book: |  | Medium |
-| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | 
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Super%20Ugly%20Number/super-ugly-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Super%20Ugly%20Number/README.md) | Medium |
+
 
 
