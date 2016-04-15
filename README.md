@@ -55,6 +55,8 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Median%20from%20Data%20Stream/find-median-from-data-stream.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Median%20from%20Data%20Stream/README.md) | Hard |
 | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | blue_book: |
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | blue_book: |
-| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Nim%20Game/nim-game.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Nim%20Game/README.md) | Easy |
+| 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | blue_book: |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 
 
 
