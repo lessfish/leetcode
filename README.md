@@ -48,6 +48,10 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | :blue_book: |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Increasing%20Subsequence/longest-increasing-subsequence.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Increasing%20Subsequence/README.md) | Medium |
-| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | 
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Bulls%20and%20Cows/bulls-and-cows.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Bulls%20and%20Cows/README.md) | Easy |
+| 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |:blue_book: |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
+| 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) |:blue_book: |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 
 
 
