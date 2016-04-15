@@ -60,6 +60,10 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Word%20Pattern/word-pattern.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Word%20Pattern/README.md) | Easy |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Game%20of%20Life/game-of-life.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Game%20of%20Life/README.md) | Medium |
 | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) | :blue_book: |
-| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20the%20Duplicate%20Number/find-the-duplicate-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20the%20Duplicate%20Number/README.md) | Hard |
+| 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | :blue_book: |
+| 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | :blue_book: |
+| 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 
 
 
