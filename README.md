@@ -48,6 +48,6 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | :blue_book: |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Increasing%20Subsequence/longest-increasing-subsequence.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Increasing%20Subsequence/README.md) | Medium |
-
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | 
 
 
