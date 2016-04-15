@@ -56,8 +56,8 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | :blue_book: |
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | :blue_book: |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Nim%20Game/nim-game.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Nim%20Game/README.md) | Easy |
-| 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | blue_book: |
+| 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | :blue_book: |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Word%20Pattern/word-pattern.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Word%20Pattern/README.md) | Easy |
-| 289 | 
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | 
 
 
