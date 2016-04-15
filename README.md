@@ -52,6 +52,9 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |:blue_book: |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
 | 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) |:blue_book: |
-| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Median%20from%20Data%20Stream/find-median-from-data-stream.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Median%20from%20Data%20Stream/README.md) | Hard |
+| 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | blue_book: |
+| 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | blue_book: |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 
 
 
