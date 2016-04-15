@@ -47,6 +47,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Immutable/range-sum-query-immutable.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Immutable/README.md) | Easy |
 | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | :blue_book: |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Increasing%20Subsequence/longest-increasing-subsequence.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Increasing%20Subsequence/README.md) | Medium |
+
 
 
