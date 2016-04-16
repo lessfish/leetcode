@@ -132,6 +132,15 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 217 |
 | 216 |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Largest%20Element%20in%20an%20Array/kth-largest-element-in-an-array.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Largest%20Element%20in%20an%20Array/README.md) | Medium |
-| 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | 
+| 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shortest%20Palindrome/shortest-palindrome.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shortest%20Palindrome/README.md) | Hard |
+| 213 | [House Robber II]() |
+| 212 | [Word Search II]() |
+| 211 | [Add and Search Word - Data structure design]() |
+| 210 | [Course Schedule II]() |
+| 209 | [Minimum Size Subarray Sum]() |
+| 208 | [Implement Trie (Prefix Tree)]() |
+| 207 | [Course Schedule]() |
+| 206 | [Reverse Linked List]() |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 
 
 
