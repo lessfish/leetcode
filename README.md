@@ -123,6 +123,14 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 226 | [Invert Binary Tree]() |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/implement-stack-using-queues.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/README.md) | Easy |
 | 224 | [Basic Calculator]() |
-| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | 
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/index_best_solution.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/README.md) | Easy |
+| 222 | [Count Complete Tree Nodes]() | 
+| 221 | [Maximal Square]() |
+| 220 |
+| 219 |
+| 218 |
+| 217 |
+| 216 |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 
 
 
