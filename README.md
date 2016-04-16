@@ -115,6 +115,9 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/palindrome-linked-list.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/README.md) | Easy |
 | 233 | [Number of Digit One]() |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/implement-queue-using-stacks.js) | {Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/README.md) | Easy |
-| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | 
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/power-of-two.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/README.md) | Easy |
+| 230 | [Kth Smallest Element in a BST]() |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | 
 
 
