@@ -112,6 +112,8 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Delete%20Node%20in%20a%20Linked%20List/delete-node-in-a-linked-list.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Delete%20Node%20in%20a%20Linked%20List/README.md) | Easy |
 | 236 | [Lowest Common Ancestor of a Binary Tree]() |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree]() |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/palindrome-linked-list.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/README.md) | Easy |
+| 233 | [Number of Digit One]() |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 
 
 
