@@ -72,7 +72,13 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Bad%20Version/first-bad-version.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Bad%20Version/README.md) | Easy |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | :blue_book: |
 | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | :blue_book: |
-| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | 
-| 274 | [H-Index](https://leetcode.com/problems/h-index/) | 
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/H-Index%20II/h-index-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/H-Index%20II/README.md) | Medium |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/H-Index/h-index.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/H-Index/README.md) | Medium |
+| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) |
+| 272 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | :blue_book: |
+| 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | :blue_book: |
+| 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | :blue_book: |
+| 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | :blue_book: |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 
 
 
