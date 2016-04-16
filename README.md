@@ -104,6 +104,8 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 245 | [Shortest Word Distance III]() | :blue_book: |
 | 244 | [Shortest Word Distance II]() | :blue_book: |
 | 243 | [Shortest Word Distance]() | :blue_book: |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Anagram/valid-anagram.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Anagram/valid-anagram.js) | Easy |
+| 241 | [Different Ways to Add Parentheses]() |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 
 
 
