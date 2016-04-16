@@ -83,6 +83,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | :blue_book: |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | :blue_book: |
 | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | :blue_book: |
-| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | 
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number%20II/ugly-number-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number%20II/README.md) | Medium |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 
 
 

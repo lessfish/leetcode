@@ -1,0 +1,1 @@
+Such an easy problem, don't forget the condition when `num === 0`.
