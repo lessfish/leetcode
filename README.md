@@ -68,6 +68,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) |
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | :blue_book: |
 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | :blue_book: |
-| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Perfect%20Squares/perfect-squares.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Perfect%20Squares/README.md) | Medium |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | 
 
 
