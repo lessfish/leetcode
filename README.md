@@ -118,6 +118,9 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/power-of-two.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/README.md) | Easy |
 | 230 | [Kth Smallest Element in a BST]() |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |
-| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | 
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/summary-ranges.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/README.md) | Medium |
+| 227 | [Basic Calculator II]() |
+| 226 | [Invert Binary Tree]() |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 
 
 
