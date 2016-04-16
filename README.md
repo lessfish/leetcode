@@ -141,6 +141,9 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 208 | [Implement Trie (Prefix Tree)]() |
 | 207 | [Course Schedule]() |
 | 206 | [Reverse Linked List]() |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/isomorphic-strings.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/README.md) | Easy |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | 
+| 203 | [Remove Linked List Elements]() |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 
 
 
