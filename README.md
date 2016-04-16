@@ -144,6 +144,8 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/isomorphic-strings.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/README.md) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | 
 | 203 | [Remove Linked List Elements]() |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Happy%20Number/happy-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Happy%20Number/README.md) | Easy |
+| 201 | [Bitwise AND of Numbers Range]() |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 
 
 
