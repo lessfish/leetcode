@@ -84,6 +84,26 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | :blue_book: |
 | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | :blue_book: |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number%20II/ugly-number-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number%20II/README.md) | Medium |
-| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number/ugly-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number/README.md) | Easy |
+| 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | :blue_book: |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | 
+| 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | :blue_book: |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Digits/add-digits.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Digits/README.md) | Easy |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/binary-tree-paths.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/README.md) | Easy |
+| 256 | [Paint House)](https://leetcode.com/problems/paint-house/) | :blue_book: |
+| 255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) | :blue_book: |
+| 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/) | :blue_book: |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | :blue_book: |
+| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | :blue_book: |
+| 251 | [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | :blue_book: |
+| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | :blue_book: |
+| 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | :blue_book: |
+| 248 | [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | :blue_book: |
+| 247 | [Strobogrammatic Number II]() | :blue_book: |
+| 246 | [Strobogrammatic Number]() | :blue_book: |
+| 245 | [Shortest Word Distance III]() | :blue_book: |
+| 244 | [Shortest Word Distance II]() | :blue_book: |
+| 243 | [Shortest Word Distance]() | :blue_book: |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 
 
 
