@@ -121,6 +121,8 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/summary-ranges.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/README.md) | Medium |
 | 227 | [Basic Calculator II]() |
 | 226 | [Invert Binary Tree]() |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/implement-stack-using-queues.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/README.md) | Easy |
+| 224 | [Basic Calculator]() |
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | 
 
 
