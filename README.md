@@ -106,6 +106,9 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 243 | [Shortest Word Distance]() | :blue_book: |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Anagram/valid-anagram.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Anagram/valid-anagram.js) | Easy |
 | 241 | [Different Ways to Add Parentheses]() |
-| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Search%20a%202D%20Matrix%20II/search-a-2d-matrix-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Search%20a%202D%20Matrix%20II/README.md) | Medium |
+| 239 | [Sliding Window Maximum]() | 
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 
 
 
