@@ -79,6 +79,10 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | :blue_book: |
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | :blue_book: |
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | :blue_book: |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Missing%20Number/missing-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Missing%20Number/README.md) | Medium |
+| 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | :blue_book: |
+| 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | :blue_book: |
+| 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | :blue_book: |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | 
 
 
