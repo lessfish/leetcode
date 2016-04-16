@@ -69,6 +69,10 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | :blue_book: |
 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | :blue_book: |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Perfect%20Squares/perfect-squares.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Perfect%20Squares/README.md) | Medium |
-| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | 
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Bad%20Version/first-bad-version.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Bad%20Version/README.md) | Easy |
+| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | :blue_book: |
+| 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | :blue_book: |
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | 
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | 
 
 
