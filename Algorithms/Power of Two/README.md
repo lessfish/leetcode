@@ -1,0 +1,1 @@
+Use `Math.log()`, and you need a little math knowledge.

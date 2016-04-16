@@ -114,6 +114,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 235 | [Lowest Common Ancestor of a Binary Search Tree]() |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/palindrome-linked-list.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/README.md) | Easy |
 | 233 | [Number of Digit One]() |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/implement-queue-using-stacks.js) | {Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/README.md) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | 
 
 
