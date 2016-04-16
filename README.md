@@ -64,6 +64,10 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | :blue_book: |
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | :blue_book: |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Move%20Zeroes/move-zeroes.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Move%20Zeroes/README.md) | Easy |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) |
+| 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | :blue_book: |
+| 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | :blue_book: |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 
 
 
