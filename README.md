@@ -131,6 +131,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 218 |
 | 217 |
 | 216 |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Largest%20Element%20in%20an%20Array/kth-largest-element-in-an-array.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Largest%20Element%20in%20an%20Array/README.md) | Medium |
+| 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | 
 
 
