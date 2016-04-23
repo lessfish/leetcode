@@ -155,6 +155,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 189 | [Rotate Array](https://leetcode.com/problemset/algorithms/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rotate%20Array/rotate-array.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rotate%20Array/README.md) | Easy |
 | 188 | [Best Time to Buy and Sell Stock IV]() |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Repeated%20DNA%20Sequences/repeated-dna-sequences.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Repeated%20DNA%20Sequences/README.md) | Medium |
-
+| 186 | [Reverse Words in a String II]() |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | 
 
 
