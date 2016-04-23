@@ -1,8 +1,10 @@
-> I decide to add solutions **with simple descriptions** to each problem I have solved, to practise my written English, as well as recording something. —— Mar 31. 2016
+> I decide to add solutions **with simple explaination ** to each problem I have solved, to practise my written English, as well as recording something. —— Mar 31. 2016
 
 # :pencil2: Leetcode Solutions with JavaScript
 
 If you **give this Repo. a star**, I'll be quite thankful!
+
+If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
@@ -126,7 +128,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/index_best_solution.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/README.md) | Easy |
 | 222 | [Count Complete Tree Nodes]() | 
 | 221 | [Maximal Square]() |
-| 220 |
+| 220 | 
 | 219 |
 | 218 |
 | 217 |
@@ -147,6 +149,7 @@ If you **give this Repo. a star**, I'll be quite thankful!
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Happy%20Number/happy-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Happy%20Number/README.md) | Easy |
 | 201 | [Bitwise AND of Numbers Range]() |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Islands/number-of-islands.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Islands/README.md) | Medium |
-| 199 | [Binary Tree Right Side View]() |
+| 199 | [Binary Tree Right Side View]() |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 
 
 
