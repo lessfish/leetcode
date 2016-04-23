@@ -151,6 +151,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Islands/number-of-islands.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Islands/README.md) | Medium |
 | 199 | [Binary Tree Right Side View]() |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |
-| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Bits/reverse-bits.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Bits/README.md) | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problemset/algorithms/) | 
 
 
