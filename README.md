@@ -162,6 +162,6 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Factorial%20Trailing%20Zeroes/factorial-trailing-zeroes.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Factorial%20Trailing%20Zeroes/README.md) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 
 | 170 | [Two Sum III - Data structure design]() |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element/majority-element.js) | 
 
 

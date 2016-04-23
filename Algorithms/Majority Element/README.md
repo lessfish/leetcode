@@ -1,1 +1,1 @@
-Use the array `hash` to calculate the time one element appears. For instance, `hash[i]` means the time `i` appears. And when `hash[i] > > len / 2`, we can say that `i` is the answer.
+Use the array `hash` to calculate the time one element appears. For instance, `hash[i]` means the time `i` appears. And when `hash[i] > len / 2`, we can say that `i` is the answer.
