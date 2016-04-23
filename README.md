@@ -156,6 +156,9 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 188 | [Best Time to Buy and Sell Stock IV]() |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Repeated%20DNA%20Sequences/repeated-dna-sequences.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Repeated%20DNA%20Sequences/README.md) | Medium |
 | 186 | [Reverse Words in a String II]() |
-| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | 
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Largest%20Number/largest-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Largest%20Number/README.md) | Medium |
+| 174 | [Dungeon Game]() |
+| 173 | [Binary Search Tree Iterator]() |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | 
 
 
