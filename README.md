@@ -169,6 +169,21 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 165 | [Compare Version Numbers]() |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Gap/maximum-gap.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Gap/README.md) | Hard |
 | 163 | [Missing Ranges]() |
-| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Peak%20Element/find-peak-element.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Peak%20Element/README.md) | Medium |
+| 161 | [One Edit Distance]() |
+| 160 | [Intersection of Two Linked Lists]() |
+| 159 | [Longest Substring with At Most Two Distinct Characters]() |
+| 158 | [Read N Characters Given Read4 II - Call multiple times]() |
+| 157 | [Read N Characters Given Read4]() |
+| 156 | [Binary Tree Upside Down]() |
+| 155 | [Min Stack]() |
+| 154 | [Find Minimum in Rotated Sorted Array II]() |
+| 153 | [Find Minimum in Rotated Sorted Array]() |
+| 152 | [Maximum Product Subarray]() |
+| 151 | [Reverse Words in a String]() |
+| 150 | [Evaluate Reverse Polish Notation]() |
+| 149 | [Max Points on a Line]() |
+| 148 | [Sort List]() |
+
 
 
