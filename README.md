@@ -150,6 +150,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 201 | [Bitwise AND of Numbers Range]() |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Islands/number-of-islands.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Islands/README.md) | Medium |
 | 199 | [Binary Tree Right Side View]() |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 
 
 
