@@ -1,0 +1,1 @@
+It is a very simple problem, using some Array functions like `slice`, `splice` and `unshift`. Anyway, you can solve it in other ways.
