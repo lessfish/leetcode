@@ -10,6 +10,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 
 | # | Title | Source Code | Explaination | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String/reverse-string.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String/README.md) | Easy |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | :blue_book: |  | Easy |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/counting-bits.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/README.md) | Medium |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/House%20Robber%20III/house-robber-iii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/House%20Robber%20III/README.md) | Medium |
