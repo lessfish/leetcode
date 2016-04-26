@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/reverse-vowels-of-a-string/
+// Source : https://leetcode.com/problems/power-of-four/
 // Author : Han Zichi
 // Date   : 2016-04-26
 
