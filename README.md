@@ -10,6 +10,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 
 | # | Title | Source Code | Explaination | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Vowels%20of%20a%20String/reverse-vowels-of-a-string.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Vowels%20of%20a%20String/README.md) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String/reverse-string.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String/README.md) | Easy |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | :blue_book: |  | Easy |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/counting-bits.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Counting%20Bits/README.md) | Medium |
