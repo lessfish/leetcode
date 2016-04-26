@@ -18,7 +18,6 @@ var reverseVowels = function(s) {
       vowelArr.push(arr[i]);
   }
 
-
   vowelArr.reverse();
 
   var ansStr = ''
