@@ -30,7 +30,7 @@ var myPow = function(x, n) {
 };
 ```
 
-But it still fails, for we forget this situation when `n === `2147483648`, and `n >> 1` will get `-1073741824`, so we should use `/ 2` or `>>>` instead.
+But it still fails, for we forget this situation when `n === 2147483648`, and `n >> 1` will get `-1073741824`, so we should use `/ 2` or `>>>` instead.
 
 ```javascript
 var myPow = function(x, n) {
