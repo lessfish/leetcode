@@ -189,5 +189,5 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 149 | [Max Points on a Line]() |
 | 148 | [Sort List]() |
 
-
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/two-sum.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/README.md) | Easy |
 
