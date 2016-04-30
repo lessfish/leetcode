@@ -1,0 +1,1 @@
+In javascript, you can convert String to Number use `Number()`, if a given string is not numeric, then you will get `NaN` as a result. Particularly, Number("") will get 0, notice that and make a specially judgement.
