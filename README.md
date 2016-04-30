@@ -127,7 +127,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/summary-ranges.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/README.md) | Medium |
 | 227 | [Basic Calculator II]() |
-| 226 | [Invert Binary Tree]() |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Invert%20Binary%20Tree/invert-binary-tree.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Invert%20Binary%20Tree/README.md) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/implement-stack-using-queues.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/README.md) | Easy |
 | 224 | [Basic Calculator]() |
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/index_best_solution.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/README.md) | Easy |
