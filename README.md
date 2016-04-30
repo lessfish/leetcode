@@ -189,6 +189,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 150 | [Evaluate Reverse Polish Notation]() |
 | 149 | [Max Points on a Line]() |
 | 148 | [Sort List]() |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Number/valid-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Number/README.md) | Hard |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pow(x%2C%20n)/powx-n.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pow(x%2C%20n)/README.md) | Medium |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/two-sum.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/README.md) | Easy |
 
