@@ -1,0 +1,1 @@
+To save the `key-value` pairs, we use `object` in JavaScript, and to find the least recently used item, we use an array to hash the keys.
