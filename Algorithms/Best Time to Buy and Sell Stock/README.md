@@ -1,0 +1,1 @@
+Easy to find a O(n^2) solution, but you should do it with O(n), it's easy, maintain a variable that represents the lowest price that can buy.
