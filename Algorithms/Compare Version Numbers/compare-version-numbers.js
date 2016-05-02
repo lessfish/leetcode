@@ -22,7 +22,5 @@ var compareVersion = function(version1, version2) {
 
     if (item1 < item2)
       return -1;
-
-    
   }
 };
