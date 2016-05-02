@@ -10,6 +10,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 
 | # | Title | Source Code | Explaination | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Top%20K%20Frequent%20Elements/top-k-frequent-elements.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Top%20K%20Frequent%20Elements/README.md) | Medium |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Vowels%20of%20a%20String/reverse-vowels-of-a-string.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Vowels%20of%20a%20String/README.md) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String/reverse-string.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String/README.md) | Easy |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Integer%20Break/integer-break.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Integer%20Break/README.md) | Medium |
