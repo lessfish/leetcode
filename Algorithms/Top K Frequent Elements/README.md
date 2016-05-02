@@ -1,0 +1,1 @@
+Use O(n) to get the times every item appears, store in an array with an object, the key is the item, and the value is the times, for instance, `[1, 1, 1, 2, 2, 3]`, we can use an array `[{"1": 3}, {"2": 2}, {"3": 1}]`, then we can sort the array and get the answer.
