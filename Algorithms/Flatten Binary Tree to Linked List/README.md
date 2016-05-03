@@ -1,0 +1,1 @@
+Just do a preorder traversal, you will get the answer.
