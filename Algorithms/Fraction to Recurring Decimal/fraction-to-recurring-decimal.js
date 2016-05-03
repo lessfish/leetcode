@@ -60,6 +60,3 @@ var fractionToDecimal = function(numerator, denominator) {
 
   return isNegative + ans + '.' + arr.join('');
 };
-
-var ans = fractionToDecimal(-2147483648 , 1)
-console.log(ans)
