@@ -69,7 +69,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20the%20Duplicate%20Number/find-the-duplicate-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20the%20Duplicate%20Number/README.md) | Hard |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | :blue_book: |
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | :blue_book: |
-| 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) |
+| 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | **Not Support JavaScript** |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Move%20Zeroes/move-zeroes.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Move%20Zeroes/README.md) | Easy |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) |
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | :blue_book: |
