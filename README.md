@@ -184,7 +184,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 154 | [Find Minimum in Rotated Sorted Array II]() |
 | 153 | [Find Minimum in Rotated Sorted Array]() |
 | 152 | [Maximum Product Subarray]() |
-| 151 | [Reverse Words in a String]() |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String/reverse-words-in-a-string.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String/README.md) | Medium |
 | 150 | [Evaluate Reverse Polish Notation]() |
 | 149 | [Max Points on a Line]() |
 | 148 | [Sort List]() |
