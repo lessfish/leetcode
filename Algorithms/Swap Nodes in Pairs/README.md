@@ -1,0 +1,1 @@
+Simple question, just cut the list into some single nodes, and put them in an array, then rearrange the array as the problem asks, at last make a new list from the rearranged array.
