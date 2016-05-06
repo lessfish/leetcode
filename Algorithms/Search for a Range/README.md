@@ -1,0 +1,1 @@
+I just solve it with O(n) complexity, maybe you can try **binary search** to reduce the complexity to O(log n).
