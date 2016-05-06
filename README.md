@@ -148,7 +148,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 207 | [Course Schedule]() |
 | 206 | [Reverse Linked List]() |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/isomorphic-strings.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/README.md) | Easy |
-| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | 
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Count%20Primes/count-primes.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Count%20Primes/README.md) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Linked%20List%20Elements/remove-linked-list-elements.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Linked%20List%20Elements/README.md) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Happy%20Number/happy-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Happy%20Number/README.md) | Easy |
 | 201 | [Bitwise AND of Numbers Range]() |
