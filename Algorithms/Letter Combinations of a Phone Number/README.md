@@ -1,0 +1,1 @@
+It's easy to use **depth-first-search** to find all possible strings.
