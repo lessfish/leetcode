@@ -1,0 +1,1 @@
+I just use `Math.sqrt` for convenience, it's better to use binary search obviously.
