@@ -148,7 +148,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 209 | [Minimum Size Subarray Sum]() |
 | 208 | [Implement Trie (Prefix Tree)]() |
 | 207 | [Course Schedule]() |
-| 206 | [Reverse Linked List]() |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/tree/master/Algorithms/Reverse%20Linked%20List) |  | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/isomorphic-strings.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/README.md) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Count%20Primes/count-primes.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Count%20Primes/README.md) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Linked%20List%20Elements/remove-linked-list-elements.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Linked%20List%20Elements/README.md) | Easy |
