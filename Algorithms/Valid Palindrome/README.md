@@ -1,0 +1,1 @@
+Firstly, remove irrelevant characters, then make a **toLowerCase** change, at last make a reverse and compare.
