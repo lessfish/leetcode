@@ -137,7 +137,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 220 | 
 | 219 |
 | 218 |
-| 217 |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Contains%20Duplicate/contains-duplicate.js) |  | Easy |
 | 216 |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Largest%20Element%20in%20an%20Array/kth-largest-element-in-an-array.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Largest%20Element%20in%20an%20Array/README.md) | Medium |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shortest%20Palindrome/shortest-palindrome.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shortest%20Palindrome/README.md) | Hard |
