@@ -168,7 +168,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 
 | 170 | [Two Sum III - Data structure design]() |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element/majority-element.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element/README.md) | Easy |
-| 168 | [Excel Sheet Column Title]() |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Excel%20Sheet%20Column%20Title/excel-sheet-column-title.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Excel%20Sheet%20Column%20Title/README.md) | Easy |
 | 167 | [Two Sum II - Input array is sorted]() |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Fraction%20to%20Recurring%20Decimal/fraction-to-recurring-decimal.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Fraction%20to%20Recurring%20Decimal/README.md) | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Compare%20Version%20Numbers/compare-version-numbers.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Compare%20Version%20Numbers/README.md) | Easy |
