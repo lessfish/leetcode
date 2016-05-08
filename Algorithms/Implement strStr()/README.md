@@ -1,0 +1,1 @@
+Use `search` function, nothing else.
