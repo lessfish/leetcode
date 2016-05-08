@@ -1,5 +1,7 @@
 > I decide to add solutions **WITH SIMPLE EXPLAINATION** to each problem I have solved, to practise my written English, as well as recording something for you and myself. —— Mar 31. 2016
 
+> For some simple problems, I will not explain for them.  -- May 5, 2016
+
 # :pencil2: Leetcode Solutions with JavaScript
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
