@@ -7,7 +7,6 @@
  * @param {number} n
  * @return {number}
  */
-
 var uniquePaths = function(m, n) {
   var ans = [];
   for(var i = 0; i < m; i++)
