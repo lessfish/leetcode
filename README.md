@@ -184,7 +184,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 157 | [Read N Characters Given Read4]() |
 | 156 | [Binary Tree Upside Down]() |
 | 155 | [Min Stack]() | **Not Support JavaScript** |
-| 154 | [Find Minimum in Rotated Sorted Array II]() |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/find-minimum-in-rotated-sorted-array-ii.js) |  | Hard |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find-minimum-in-rotated-sorted-array.js) |  | Medium |
 | 152 | [Maximum Product Subarray]() |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String/reverse-words-in-a-string.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String/README.md) | Medium |
