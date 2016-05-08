@@ -1,0 +1,1 @@
+The best solution is using **binary search** obviously, I am sorry I don't.
