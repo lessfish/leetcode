@@ -204,6 +204,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20II/path-sum-ii.js) |  | Medium |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum/path-sum.js) |  | Easy | 
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Depth%20of%20Binary%20Tree/minimum-depth-of-binary-tree.js) |  | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Depth%20of%20Binary%20Tree/maximum-depth-of-binary-tree.js) |  | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/tree/master/Algorithms/Same%20Tree) |  | Easy |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Restore%20IP%20Addresses/restore-ip-addresses.js) |  | Medium |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Decode%20Ways/decode-ways.js) |  | Medium |
