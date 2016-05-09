@@ -125,7 +125,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/implement-queue-using-stacks.js) |  [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/README.md) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/power-of-two.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/README.md) | Easy |
 | 230 | [Kth Smallest Element in a BST]() |
-| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element%20II/majority-element-ii.js) |  | Medium |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/summary-ranges.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/README.md) | Medium |
 | 227 | [Basic Calculator II]() |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Invert%20Binary%20Tree/invert-binary-tree.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Invert%20Binary%20Tree/README.md) | Easy |
