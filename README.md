@@ -134,7 +134,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/index_best_solution.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rectangle%20Area/README.md) | Easy |
 | 222 | [Count Complete Tree Nodes]() | 
 | 221 | [Maximal Square]() |
-| 220 | 
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Contains%20Duplicate%20III/contains-duplicate-iii.js) |  | Medium |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Contains%20Duplicate%20II/contains-duplicate-ii.js) |  | Easy |
 | 218 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Contains%20Duplicate/contains-duplicate.js) |  | Easy |
