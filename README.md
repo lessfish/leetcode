@@ -240,6 +240,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Merge%20Intervals/merge-intervals.js) |  | Hard |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Spiral%20Matrix/spiral-matrix.js) |  | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Subarray/maximum-subarray.js) |  | Medium |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/N-Queens/n-queens.js) |  | Hard |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pow(x%2C%20n)/powx-n.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pow(x%2C%20n)/README.md) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rotate%20Image/rotate-image.js) |  | Medium | 
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Permutations%20II/permutations-ii.js) |  | Medium |
