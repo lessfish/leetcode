@@ -238,6 +238,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Length%20of%20Last%20Word/length-of-last-word.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Length%20of%20Last%20Word/README.md) | Easy |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Insert%20Interval/insert-interval.js) |  | Hard |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Merge%20Intervals/merge-intervals.js) |  | Hard |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Jump%20Game/jump-game.js) |  | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Spiral%20Matrix/spiral-matrix.js) |  | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Subarray/maximum-subarray.js) |  | Medium |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/N-Queens%20II/n-queens-ii.js) |  | Hard |
