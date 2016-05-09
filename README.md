@@ -210,6 +210,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Balanced%20Binary%20Tree/balanced-binary-tree.js) |  | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Depth%20of%20Binary%20Tree/maximum-depth-of-binary-tree.js) |  | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/tree/master/Algorithms/Same%20Tree) |  | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Inorder%20Traversal/binary-tree-inorder-traversal.js) |  | Medium |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Restore%20IP%20Addresses/restore-ip-addresses.js) |  | Medium |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Decode%20Ways/decode-ways.js) |  | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Subsets%20II/subsets-ii.js) |  | Medium |
