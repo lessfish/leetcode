@@ -94,7 +94,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number%20II/ugly-number-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number%20II/README.md) | Medium |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number/ugly-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ugly%20Number/README.md) | Easy |
 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | :blue_book: |
-| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | 
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Single%20Number%20III/single-number-iii.js) |  | Medium |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | :blue_book: |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Digits/add-digits.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Digits/README.md) | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/binary-tree-paths.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/README.md) | Easy |
