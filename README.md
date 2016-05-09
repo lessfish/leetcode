@@ -121,7 +121,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 236 | [Lowest Common Ancestor of a Binary Tree]() |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree]() |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/palindrome-linked-list.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/README.md) | Easy |
-| 233 | [Number of Digit One]() |
+| 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Digit%20One/number-of-digit-one.js) |  | Hard |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/implement-queue-using-stacks.js) |  [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/README.md) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/power-of-two.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/README.md) | Easy |
 | 230 | [Kth Smallest Element in a BST]() |
