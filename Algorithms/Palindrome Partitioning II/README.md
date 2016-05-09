@@ -1,0 +1,1 @@
+You should know something about the algorithm **Manacher**, then do a dynamic programming.
