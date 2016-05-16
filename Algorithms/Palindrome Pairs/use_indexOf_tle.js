@@ -1,3 +1,7 @@
+// Don't use this
+// This is a TLE solution
+
+
 // Source : https://leetcode.com/problems/palindrome-pairs/
 // Author : Han Zichi
 // Date   : 2016-05-14
