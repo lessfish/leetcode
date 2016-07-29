@@ -1,4 +1,6 @@
-要找相应的代码请直接去 <https://github.com/hanzichi/leetcode/tree/master/Algorithms> 搜索！我已经很久没更新 README 了！
+**要找相应的代码请直接去 <https://github.com/hanzichi/leetcode/tree/master/Algorithms> 搜索！我已经很久没更新 README 了！**
+
+----------
 
 
 > I decide to add solutions **WITH SIMPLE EXPLAINATION** to each problem I have solved, to practise my written English, as well as recording something for you and myself. —— Mar 31. 2016
