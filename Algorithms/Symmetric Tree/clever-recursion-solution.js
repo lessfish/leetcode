@@ -20,7 +20,7 @@ var isSymmetric = function(root) {
   return isMirror(root.left, root.right);
 };
 
-fucntion isMirror(a, b) {
+function isMirror(a, b) {
   if (!a && !b)
     return true;
 
