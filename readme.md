@@ -1,4 +1,4 @@
-**Update Time: Wed Aug 03 2016 20:40:10 GMT+0800 (中国标准时间)**
+**Update Time: Fri Aug 05 2016 13:44:50 GMT+0800 (中国标准时间)**
 
 ---
 
@@ -10,6 +10,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 
 | # | Title | Source Code | Explaination | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | | Medium |
 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | :blue_book: | | Medium |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/kth-smallest-element-in-a-sorted-matrix.js) | | Medium |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Combination%20Sum%20IV/combination-sum-iv.js) | | Medium |
@@ -271,7 +272,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Depth%20of%20Binary%20Tree/maximum-depth-of-binary-tree.js) | | Easy |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | | | Medium |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal/binary-tree-level-order-traversal.js) | | Easy |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | | | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Symmetric%20Tree/stupid-solution.js) | | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Same%20Tree/index%E2%85%A1.js) | | Easy |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | | | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | | | Medium |
@@ -280,7 +281,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | | | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Inorder%20Traversal/binary-tree-inorder-traversal.js) | | Medium |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Restore%20IP%20Addresses/restore-ip-addresses.js) | | Medium |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | | | Medium |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Linked%20List%20II/reverse-linked-list-ii.js) | | Medium |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Decode%20Ways/decode-ways.js) | | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Subsets%20II/subsets-ii.js) | | Medium |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Gray%20Code/index%E2%85%A1.js) | | Medium |
@@ -329,7 +330,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Permutations/permutations.js) | | Medium |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Jump%20Game%20II/jump-game-ii.js) | | Hard |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | | | Hard |
-| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | | | Medium |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Multiply%20Strings/multiply-strings.js) | | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | | | Hard |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Missing%20Positive/first-missing-positive.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Missing%20Positive/README.md) | Hard |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | | | Medium |
@@ -369,6 +370,6 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/ZigZag%20Conversion/zigzag-conversion.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/ZigZag%20Conversion/README.md) | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Palindromic%20Substring/longest-palindromic-substring.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Palindromic%20Substring/README.md) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Median%20of%20Two%20Sorted%20Arrays/O(nlogn).js) | | Hard |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Substring%20Without%20Repeating%20Characters/longest-substring-without-repeating-characters.js) | | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Two%20Numbers/add-two-numbers.js) | | Medium |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/two-sum.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/README.md) | Easy |
