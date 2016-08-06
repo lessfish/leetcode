@@ -1,4 +1,4 @@
-**Update Time: Fri Aug 05 2016 13:44:50 GMT+0800 (中国标准时间)**
+**Update Time: Sat Aug 06 2016 08:40:27 GMT+0800 (中国标准时间)**
 
 ---
 
@@ -17,7 +17,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Wiggle%20Subsequence/wiggle-subsequence.js) | | Medium |
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Guess%20Number%20Higher%20or%20Lower%20II/guess-number-higher-or-lower-ii.js) | | Medium |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Guess%20Number%20Higher%20or%20Lower/guess-number-higher-or-lower.cpp) | | Easy |
-| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | | | Medium |
+| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20K%20Pairs%20with%20Smallest%20Sums/find-k-pairs-with-smallest-sums.js) | | Medium |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | | | Medium |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sum%20of%20Two%20Integers/sum-of-two-integers.js) | | Easy |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | :blue_book: | | Medium |
@@ -365,7 +365,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | | | Medium |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Regular%20Expression%20Matching/regular-expression-matching.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Regular%20Expression%20Matching/README.md) | Hard |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Number/palindrome-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Number/README.md) | Easy |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | | Easy |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/String%20to%20Integer%20(atoi)/string-to-integer-atoi.js) | | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Integer/reverse-integer.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Integer/README.md) | Easy |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/ZigZag%20Conversion/zigzag-conversion.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/ZigZag%20Conversion/README.md) | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Palindromic%20Substring/longest-palindromic-substring.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Palindromic%20Substring/README.md) | Medium |
