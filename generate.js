@@ -4,11 +4,17 @@ var fs = require("fs");
 
 // collect items
 var ans = [];
-
+var solvedNum = 0;
+var problemNum = 0;
+var lockedNum = 0;
 
 function makeMarkdownFile() {
   var str = '';
-  str += "**Update Time: " + new Date + "**";
+  str += "update time: " + new Date;
+  str += '\n\n';
+  str += "I have solved **" + solvedNum + " / " +  problemNum + "** problems!";
+  str += '\n\n';
+  str += "There are **" + lockedNum + "** problems locked."
   str += '\n\n';
   str += "---";
   str += '\n\n';
@@ -126,8 +132,13 @@ function makeRequest() {
         };
 
         ans.push(obj);
+
+        problemNum ++;
+        obj.isSolved && solvedNum ++;
+        obj.isLocked && lockedNum ++;
       });
 
+      // console.log(problemNum, solvedNum, lockedNum)
       dealWithFile();
     });
 }

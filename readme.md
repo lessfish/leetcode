@@ -1,4 +1,8 @@
-**Update Time: Sat Aug 06 2016 08:40:27 GMT+0800 (中国标准时间)**
+update time: Mon Aug 08 2016 17:42:43 GMT+0800 (中国标准时间)
+
+I have solved **216 / 363** problems!
+
+There are **72** problems locked.
 
 ---
 
@@ -18,7 +22,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Guess%20Number%20Higher%20or%20Lower%20II/guess-number-higher-or-lower-ii.js) | | Medium |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Guess%20Number%20Higher%20or%20Lower/guess-number-higher-or-lower.cpp) | | Easy |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20K%20Pairs%20with%20Smallest%20Sums/find-k-pairs-with-smallest-sums.js) | | Medium |
-| 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | | | Medium |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Super%20Pow/super-pow.js) | | Medium |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sum%20of%20Two%20Integers/sum-of-two-integers.js) | | Easy |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | :blue_book: | | Medium |
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | :blue_book: | | Medium |
@@ -230,7 +234,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/LRU%20Cache/lru-cache.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/LRU%20Cache/README.md) | Hard |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Postorder%20Traversal/binary-tree-postorder-traversal.js) | | Hard |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Preorder%20Traversal/binary-tree-preorder-traversal.js) | | Medium |
-| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | | | Medium |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reorder%20List/reorder-list.js) | | Medium |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Linked%20List%20Cycle%20II/linked-list-cycle-ii.js) | | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Linked%20List%20Cycle/linked-list-cycle.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Linked%20List%20Cycle/README.md) | Easy |
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | | | Hard |
@@ -348,9 +352,9 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20strStr()/implement-strstr.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20strStr()/README.md) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Element/remove-element.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Element/README.md) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array/remove-duplicates-from-sorted-array.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array/README.md) | Easy |
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | | | Hard |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Nodes%20in%20k-Group/reverse-nodes-in-k-group.js) | | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Swap%20Nodes%20in%20Pairs/swap-nodes-in-pairs.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Swap%20Nodes%20in%20Pairs/README.md) | Easy |
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | | | Hard |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Merge%20k%20Sorted%20Lists/merge-k-sorted-lists.js) | | Hard |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Generate%20Parentheses/generate-parentheses.js) | | Medium |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Merge%20Two%20Sorted%20Lists/README.md) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Parentheses/valid-parentheses.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Parentheses/README.md) | Easy |
@@ -362,7 +366,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Common%20Prefix/longest-common-prefix.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Common%20Prefix/README.md) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Roman%20to%20Integer/roman-to-integer.js) | | Easy |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Integer%20to%20Roman/integer-to-roman.js) | | Medium |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | | | Medium |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Container%20With%20Most%20Water/O(nlogn).js) | | Medium |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Regular%20Expression%20Matching/regular-expression-matching.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Regular%20Expression%20Matching/README.md) | Hard |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Number/palindrome-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Number/README.md) | Easy |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/String%20to%20Integer%20(atoi)/string-to-integer-atoi.js) | | Easy |
