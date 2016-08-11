@@ -10,10 +10,8 @@ var maxProfit = function(prices) {
   prices.push(0);
 
   var len = prices.length;
-
   var sum = 0;
-
-  var begin; 
+  var begin;
 
   for (var i = 0; i < len; i++) {
     if (i === 0) {
@@ -21,12 +19,11 @@ var maxProfit = function(prices) {
       continue;
     }
 
-    if (prices[i] >= prices[i - 1]) {
+    if (prices[i] >= prices[i - 1])
+      continue;
 
-    } else {
-      sum += (prices[i - 1] - begin);
-      begin = prices[i];
-    }
+    sum += (prices[i - 1] - begin);
+    begin = prices[i];
   }
 
   return sum;
