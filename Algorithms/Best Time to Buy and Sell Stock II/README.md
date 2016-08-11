@@ -8,7 +8,7 @@ For convenience, I push `0` to the array, for we don't need to calculate the las
 
 **2016-08-11 add:**
 
-We can change a way of thinking, above we just find out the buying day as well as the selling day, but we do not consider about it, what we really care is the total sum! We can use dynamic programming， we just can do three things in a day, selling, buying, or neither selling nor buying,
+We can change a way of thinking, above we just find out the buying day as well as the selling day, but we do not need to consider about it, what we really care is the total sum! We can use dynamic programming， we can just do three things in a day, selling, buying, or neither selling nor buying,
 
 We define two array `sell` and `buy`, `sell[i]` means the largest sum by day i ending with selling, that means next day you can buy, or do nothing, and `buy[i]` means the largest sum by day i ending with buying, that means next day you can sell, or do nothing. So the result may be the larger one of `buy[lastDay]` and `sell[lastDay]`.
 
@@ -39,7 +39,7 @@ var maxProfit = function(prices) {
 };
 ```
 
-It's very straightforward, but we can make it shorter. See below.
+It's very straightforward to understand, but we can make it shorter. See below.
 
 ```javascript
 buy[index] = Math.max(buy[index - 1], sell[index - 1] - item);
