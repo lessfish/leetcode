@@ -10,11 +10,11 @@ var lockedNum = 0;
 
 function makeMarkdownFile() {
   var str = '';
-  str += "update time: " + new Date;
+  str += ":muscle: update time: " + new Date;
   str += '\n\n';
-  str += "I have solved **" + solvedNum + " / " +  problemNum + "** problems!";
+  str += ":muscle: I have solved **" + solvedNum + " / " +  problemNum + "** problems!";
   str += '\n\n';
-  str += "There are **" + lockedNum + "** problems locked."
+  str += ":muscle: There are **" + lockedNum + "** problems locked."
   str += '\n\n';
   str += "---";
   str += '\n\n';
