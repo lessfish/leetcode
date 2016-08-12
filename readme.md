@@ -1,6 +1,6 @@
-update time: Mon Aug 08 2016 17:42:43 GMT+0800 (中国标准时间)
+update time: Fri Aug 12 2016 17:44:28 GMT+0800 (中国标准时间)
 
-I have solved **216 / 363** problems!
+I have solved **219 / 367** problems!
 
 There are **72** problems locked.
 
@@ -14,7 +14,11 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 
 | # | Title | Source Code | Explaination | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
-| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | | Medium |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | | | Medium |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ransom%20Note/ransom-note.js) | | Easy |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | | | Medium |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | | | Hard |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | | Hard |
 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | :blue_book: | | Medium |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/kth-smallest-element-in-a-sorted-matrix.js) | | Medium |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Combination%20Sum%20IV/combination-sum-iv.js) | | Medium |
@@ -85,7 +89,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | | | Hard |
 | 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | :blue_book: | | Medium |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | | | Medium |
-| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | | | Medium |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/best-time-to-buy-and-sell-stock-with-cooldown.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/README.md) | Medium |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | :blue_book: | | Hard |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Mutable/range-sum-query-mutable.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Range%20Sum%20Query%20-%20Mutable/README.md) | Medium |
 | 306 | [Additive Number](https://leetcode.com/problems/additive-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Additive%20Number/additive-number.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Additive%20Number/README.md) | Medium |
@@ -254,8 +258,8 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | | | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Palindrome/valid-palindrome.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Palindrome/README.md) | Easy |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | | | Hard |
-| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | | | Hard |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/best-time-to-buy-and-sell-stock-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md) | Medium |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/best-time-to-buy-and-sell-stock-iii.js) | | Hard |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/dp_solution.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock/best-time-to-buy-and-sell-stock.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md) | Easy |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Triangle/triangle.js) | | Medium |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pascal's%20Triangle%20II/pascals-triangle-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pascal's%20Triangle%20II/README.md) | Easy |
