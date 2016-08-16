@@ -116,7 +116,7 @@ function dealWithFile() {
 function makeRequest() {
   superagent
     .get("https://leetcode.com/problemset/algorithms/")
-    .set("Cookie", "PHPSESSID=9iy8zsk5pw5xkyxwtkgewruh9g0ao3ix")  // login in
+    .set("Cookie", "PHPSESSID=mxahzm3l9u87sruzhlk0agzyhgq5celf")  // login in
     .end(function(err, res) {
       var $ = cheerio.load(res.text);
 
