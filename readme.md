@@ -1,8 +1,8 @@
-:alarm_clock: update time: Tue Aug 16 2016 08:47:05 GMT+0800 (中国标准时间)
+:alarm_clock: update time: Thu Aug 18 2016 17:32:14 GMT+0800 (中国标准时间)
 
-:muscle: I have solved **222 / 368** problems!
+:muscle: I have solved **226 / 368** problems!
 
-:lock: There are **72** problems locked.
+:lock: There are **71** problems locked.
 
 ---
 
@@ -157,7 +157,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | :blue_book: | | Medium |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | :blue_book: | | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Anagram/valid-anagram.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Valid%20Anagram/README.md) | Easy |
-| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | | | Medium |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Different%20Ways%20to%20Add%20Parentheses/divide-and-conquer.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Different%20Ways%20to%20Add%20Parentheses/README.md) | Medium |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Search%20a%202D%20Matrix%20II/search-a-2d-matrix-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Search%20a%202D%20Matrix%20II/README.md) | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | | | Hard |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Product%20of%20Array%20Except%20Self/product-of-array-except-self.js) | | Medium |
@@ -171,7 +171,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | | | Medium |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element%20II/majority-element-ii.js) | | Medium |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/summary-ranges.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/README.md) | Medium |
-| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | | | Medium |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Basic%20Calculator%20II/basic-calculator-ii.js) | | Medium |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Invert%20Binary%20Tree/invert-binary-tree.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Invert%20Binary%20Tree/README.md) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/implement-stack-using-queues.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/README.md) | Easy |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | | | Hard |
@@ -187,10 +187,10 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shortest%20Palindrome/shortest-palindrome.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shortest%20Palindrome/README.md) | Hard |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/House%20Robber%20II/house-robber-ii.js) | | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | | | Hard |
-| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | | | Medium |
+| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20and%20Search%20Word%20-%20Data%20structure%20design/add-and-search-word-data-structure-design.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20and%20Search%20Word%20-%20Data%20structure%20design/README.md) | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | | | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Size%20Subarray%20Sum/minimum-size-subarray-sum.js) | | Medium |
-| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | | | Medium |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Trie%20(Prefix%20Tree)/implement-trie-prefix-tree.js) | | Medium |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | | | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Linked%20List/index%E2%85%A2.js) | | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/isomorphic-strings.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Isomorphic%20Strings/README.md) | Easy |
@@ -215,7 +215,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | :blue_book: | | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element/majority-element.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element/README.md) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Excel%20Sheet%20Column%20Title/excel-sheet-column-title.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Excel%20Sheet%20Column%20Title/README.md) | Easy |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | :blue_book: | | Medium |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | | Medium |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Fraction%20to%20Recurring%20Decimal/fraction-to-recurring-decimal.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Fraction%20to%20Recurring%20Decimal/README.md) | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Compare%20Version%20Numbers/compare-version-numbers.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Compare%20Version%20Numbers/README.md) | Easy |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Gap/maximum-gap.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Gap/README.md) | Hard |
