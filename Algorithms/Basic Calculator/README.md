@@ -8,5 +8,4 @@ If the character is not a digit or `(`, we should do an add operation, but as we
 
 There is another trick when dealing with the result, when the string is `1+2`, we should add up `sign * num` in the end, but if the string is like `1+(2)`, when doing the pop operations, we have added it to `ans`, so `ans` is the one should be returned. How to deal with the two cases? Don't worry, we set `num` to 0 after encountering `()+-` like above, so we can always return `ans + sign * num` as the answer, for `num` will be `0` if it should be `0`!
 
-
-
+The clever solution is [here](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Basic%20Calculator/better-solution.js), ans if you are free, my ugly solution is [there](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Basic%20Calculator/basic-calculator.js). 
