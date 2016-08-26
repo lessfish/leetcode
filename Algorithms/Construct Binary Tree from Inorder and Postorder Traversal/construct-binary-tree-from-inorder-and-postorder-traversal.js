@@ -22,7 +22,7 @@ var buildTree = function(inorder, postorder) {
       return null;
 
     var node = new TreeNode(postorder[index]);
-    var pos = inorder.indexOf(postorder[index]);
+    var pos = inorder.indexOf(postorder[index], startPos);
 
     node.left = dfs(index - (endPos - pos) - 1, startPos, pos - 1);
     node.right = dfs(index - 1, pos + 1, endPos);
