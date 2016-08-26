@@ -15,9 +15,6 @@
  * @return {TreeNode}
  */
 var buildTree = function(inorder, postorder) {
-  if (inorder.length === 0)
-    return null;
-
   return dfs(inorder.length - 1, 0, inorder.length - 1);
 
   function dfs(index, startPos, endPos) {

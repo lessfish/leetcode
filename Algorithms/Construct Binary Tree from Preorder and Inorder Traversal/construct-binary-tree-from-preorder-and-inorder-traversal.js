@@ -15,9 +15,6 @@
  * @return {TreeNode}
  */
 var buildTree = function(preorder, inorder) {
-  if (!preorder.length)
-    return null;
-
   return dfs(0, 0, preorder.length - 1);
 
   // the subTree values whose node value is preorder[index]
