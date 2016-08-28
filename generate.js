@@ -10,17 +10,15 @@ var lockedNum = 0;
 
 function makeMarkdownFile() {
   var str = '';
-  str += ":alarm_clock: update time: " + new Date;
-  str += '\n\n';
-  str += ":muscle: I have solved **" + solvedNum + " / " +  problemNum + "** problems!";
-  str += '\n\n';
-  str += ":lock: There are **" + lockedNum + "** problems locked."
-  str += '\n\n';
-  str += "---";
-  str += '\n\n';
   str += '# :pencil2: Leetcode Solutions with JavaScript';
+  str += '\n';
+  str += "Update time: " + new Date;
   str += '\n\n';
-  str += 'If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).';
+  str += "I have solved **" + solvedNum + " / " +  problemNum + "** problems ";
+  str += "while there are **" + lockedNum + "** problems still locked."
+  str += '\n\n';
+  str += 'If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues). ';
+  str += 'If you are loving solving problems using JavaScript, please contact me to enjoy it together!'
   str += '\n\n';
   str += '(Notes: :blue_book: means you need to buy a book from Leetcode)';
   str += '\n\n';
@@ -116,7 +114,7 @@ function dealWithFile() {
 function makeRequest() {
   superagent
     .get("https://leetcode.com/problemset/algorithms/")
-    .set("Cookie", "PHPSESSID=mxahzm3l9u87sruzhlk0agzyhgq5celf")  // login in
+    .set("Cookie", "PHPSESSID=qvcevokh3nhdga6tpfzgvi2lqu078bu0")  // for logining in
     .end(function(err, res) {
       var $ = cheerio.load(res.text);
 
@@ -132,7 +130,6 @@ function makeRequest() {
         };
 
         ans.push(obj);
-
         problemNum ++;
         obj.isSolved && solvedNum ++;
         obj.isLocked && lockedNum ++;
