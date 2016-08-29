@@ -17,7 +17,8 @@ function makeMarkdownFile() {
   str += "I have solved **" + solvedNum + " / " +  problemNum + "** problems ";
   str += "while there are **" + lockedNum + "** problems still locked."
   str += '\n\n';
-  str += 'If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues). ';
+  str += 'If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).';
+  str += '\n\n';
   str += 'If you are loving solving problems using JavaScript, please contact me to enjoy it together!'
   str += '\n\n';
   str += '(Notes: :blue_book: means you need to buy a book from Leetcode)';

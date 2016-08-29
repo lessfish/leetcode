@@ -1,14 +1,18 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Sun Aug 28 2016 15:49:53 GMT+0800 (中国标准时间)
+Update time: Mon Aug 29 2016 15:58:14 GMT+0800 (中国标准时间)
 
-I have solved **238 / 371** problems while there are **71** problems still locked.
+I have solved **250 / 373** problems while there are **71** problems still locked.
 
-If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues). If you are loving solving problems using JavaScript, please contact me to enjoy it together!
+If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
+
+If you are loving solving problems using JavaScript, please contact me to enjoy it together!
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
 | # | Title | Source Code | Explaination | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | | | Hard |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20the%20Difference/find-the-difference.js) | | Easy |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Absolute%20File%20Path/longest-absolute-file-path.js) | | Medium |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Unique%20Character%20in%20a%20String/first-unique-character-in-a-string.js) | | Easy |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Lexicographical%20Numbers/lexicographical-numbers.js) | | Medium |
@@ -66,7 +70,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Increasing%20Triplet%20Subsequence/increasing-triplet-subsequence.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Increasing%20Triplet%20Subsequence/README.md) | Medium |
 | 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | :blue_book: | | Medium |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | | | Medium |
-| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | | | Medium |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/verify-preorder-serialization-of-a-binary-tree.js) | | Medium |
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Patching%20Array/patching-array.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Patching%20Array/README.md) | Hard |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | | | Hard |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Odd%20Even%20Linked%20List/odd-even-linked-list.js) | | Medium |
@@ -166,7 +170,7 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Digit%20One/number-of-digit-one.js) | | Hard |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/implement-queue-using-stacks.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/README.md) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/power-of-two.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Power%20of%20Two/README.md) | Easy |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | | | Medium |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Smallest%20Element%20in%20a%20BST/kth-smallest-element-in-a-bst.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Smallest%20Element%20in%20a%20BST/readme.md) | Medium |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Majority%20Element%20II/majority-element-ii.js) | | Medium |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/summary-ranges.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Summary%20Ranges/README.md) | Medium |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Basic%20Calculator%20II/basic-calculator-ii.js) | | Medium |
@@ -244,10 +248,10 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Word%20Break/word-break.js) | | Medium |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Copy%20List%20with%20Random%20Pointer/copy-list-with-random-pointer.js) | | Hard |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Single%20Number%20II/single-number-ii.js) | | Medium |
-| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Single%20Number/single-number.js) | | Medium |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Single%20Number/single-number.js) | | Easy |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | | | Hard |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | | | Medium |
-| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | | | Medium |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Clone%20Graph/clone-graph.js) | | Medium |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Partitioning%20II/palindrome-partitioning-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Partitioning%20II/README.md) | Hard |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Partitioning/palindrome-partitioning.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Palindrome%20Partitioning/README.md) | Medium |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | | | Medium |
@@ -263,29 +267,29 @@ If you have any question, please give me an [issue](https://github.com/hanzichi/
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Triangle/triangle.js) | | Medium |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pascal's%20Triangle%20II/pascals-triangle-ii.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pascal's%20Triangle%20II/README.md) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pascal's%20Triangle/pascals-triangle.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pascal's%20Triangle/README.md) | Easy |
-| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | | | Hard |
-| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | | | Medium |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/bfs-solution.js) | | Hard |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/dfs-solution.js) | | Medium |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | | | Hard |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Flatten%20Binary%20Tree%20to%20Linked%20List/flatten-binary-tree-to-linked-list.js) | [Explaination](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Flatten%20Binary%20Tree%20to%20Linked%20List/README.md) | Medium |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20II/path-sum-ii.js) | | Medium |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum/path-sum.js) | | Easy |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Depth%20of%20Binary%20Tree/minimum-depth-of-binary-tree.js) | | Easy |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Balanced%20Binary%20Tree/balanced-binary-tree.js) | | Easy |
-| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | | | Medium |
-| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | | | Medium |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/convert-sorted-list-to-binary-search-tree.js) | | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/convert-sorted-array-to-binary-search-tree.js) | | Medium |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal%20II/binary-tree-level-order-traversal-ii.js) | | Easy |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/construct-binary-tree-from-inorder-and-postorder-traversal.js) | | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/construct-binary-tree-from-preorder-and-inorder-traversal.js) | | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20Depth%20of%20Binary%20Tree/maximum-depth-of-binary-tree.js) | | Easy |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | | | Medium |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/binary-tree-zigzag-level-order-traversal.js) | | Medium |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal/binary-tree-level-order-traversal.js) | | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Symmetric%20Tree/stupid-solution.js) | | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Same%20Tree/index%E2%85%A1.js) | | Easy |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | | | Hard |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | | | Medium |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Validate%20Binary%20Search%20Tree/validate-binary-search-tree.js) | | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | | | Hard |
-| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | | | Medium |
-| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | | | Medium |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Unique%20Binary%20Search%20Trees/unique-binary-search-trees.js) | | Medium |
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Unique%20Binary%20Search%20Trees%20II/unique-binary-search-trees-ii.js) | | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Inorder%20Traversal/binary-tree-inorder-traversal.js) | | Medium |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Restore%20IP%20Addresses/restore-ip-addresses.js) | | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Linked%20List%20II/reverse-linked-list-ii.js) | | Medium |
