@@ -1,3 +1,7 @@
+// command: git update-index --assume-unchanged generate.js
+// to make Git not to track this file anymore
+// 还原: git update-index --no-assume-unchanged generate.js
+
 var superagent = require("superagent");
 var cheerio = require("cheerio");
 var fs = require("fs");
