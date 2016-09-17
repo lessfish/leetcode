@@ -1,6 +1,7 @@
 // Source : https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 // Author : Han Zichi
 // Date   : 2016-09-17
+// Runtime: 105 ms
 
 /**
  * @param {string} s
