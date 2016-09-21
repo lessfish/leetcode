@@ -4,4 +4,4 @@ For instance, `s = "ababbc" and k = 2`.  Take 0 as the starting point, it's an *
 
 Above is not a good solution, for it will do some useless work. For instance, `s = "ababbcdefg" and k = 2`, when doing the first loop, you find the substring is *ababb*, then do the second from the position 1, but it seems needless, because when encountering the item *c*, you should break, but the substring will never longer then *ababb*.
 
-So the better way is using **divide and conquer**. It's easy to understand, see the code [better-solution.js](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/better-solution.js).
+So the better way is using **divide and conquer**. It's easy to understand, see the code [better-solution.js](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/better-solution.js), and its complexity will be O(nlogn).
