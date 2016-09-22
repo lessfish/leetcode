@@ -76,7 +76,7 @@ But ... TLE! Err, it seems the time complexity is O(n), but this line ` a < b ? 
 
 So what is the right way? Use stack, maybe a little greedy.
 
-Take `num = "1432219", k = 3` into consideration, you should return a string with length 4. We enum the items of string *"1432219"*, firstly *1*, then *14*, here there are two items in the stack. Then the item *3*, compared with the top item of the stack *4*, *3* is smaller than *4*, *13xx* will always smaller than *14xx*, and we are sure that the left items is enough to make the length 4, so we do a pop operation to the stack. 
+Take `num = "1432219", k = 3` into consideration, you should return a string with length 4. We enum the items of string *"1432219"*, firstly *1*, then *14*, here there are two items in the stack. Then the item *3*, compared with the top item of the stack *4*, *3* is smaller than *4*, *13xx* will always be smaller than *14xx*, and we are sure that the left items is enough to make the length 4, so we do a pop operation to the stack. 
 
 See the [code](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Remove%20K%20Digits/remove-k-digits.js) in detail.
 
