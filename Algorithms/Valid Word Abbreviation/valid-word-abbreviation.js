@@ -8,7 +8,7 @@
  * @return {boolean}
  */
 var validWordAbbreviation = function(word, abbr) {
-  // ÅÅ³ı¹ÂÁ¢µÄ `0` µÄ¸ÉÈÅ
+  // æ’é™¤å­¤ç«‹çš„ `0` çš„å¹²æ‰°
   if (/([^1-9]|^)0+/.test(abbr))
     return false;
 
