@@ -16,7 +16,6 @@ var addStrings = function(num1, num2) {
 
   i -= 1, j -= 1;
   for ( ; i >= 0 || j >= 0; i--, j--) {
-
     let a = i >= 0 ? +num1[i] : 0;
     let b = j >= 0 ? +num2[j] : 0;
     let sum = a + b + add;
