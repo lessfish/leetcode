@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Wed Oct 19 2016 14:28:26 GMT+0800 (中国标准时间)
+Update time: Tue Nov 15 2016 18:43:56 GMT+0800 (中国标准时间)
 
-I have solved **272 / 405** problems while there are **75** problems still locked.
+I have solved **280 / 421** problems while there are **77** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
 
@@ -11,15 +11,31 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements/minimum-moves-to-equal-array-elements.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements/README.md) | Easy |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | | | Medium |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Boomerangs/number-of-boomerangs.js) | | Easy |
+| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | | | Hard |
+| 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | :blue_book: | | Medium |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Arranging%20Coins/arranging-coins.js) | | Easy |
+| 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | | | Hard |
+| 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | :blue_book: | | Medium |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20All%20Anagrams%20in%20a%20String/find-all-anagrams-in-a-string.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20All%20Anagrams%20in%20a%20String/Readme.md) | Easy |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20III/path-sum-iii.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20III/Readme.md) | Easy |
+| 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Right%20Interval/find-right-interval.js) | | Medium |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | | | Medium |
+| 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | | | Hard |
 | 425 | [Word Squares](https://leetcode.com/problems/word-squares/) | :blue_book: | | Hard |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | | | Medium |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reconstruct%20Original%20Digits%20from%20English/reconstruct-original-digits-from-english.js) | | Medium |
 | 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | :blue_book: | | Easy |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/maximum-xor-of-two-numbers-in-an-array.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/README.md) | Medium |
+| 420 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | | | Hard |
 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Battleships%20in%20a%20Board/battleships-in-a-board.js) | | Medium |
 | 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | :blue_book: | | Medium |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pacific%20Atlantic%20Water%20Flow/pacific-atlantic-water-flow.js) | | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | | | Medium |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Strings/add-strings.js) | | Easy |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Third%20Maximum%20Number/third-maximum-number.js) | | Easy |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Arithmetic%20Slices/arithmetic-slices.js) | | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Fizz%20Buzz/fizz-buzz.js) | | Easy |
 | 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | :blue_book: | | Hard |
