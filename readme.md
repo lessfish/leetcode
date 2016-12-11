@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Tue Nov 15 2016 18:43:56 GMT+0800 (中国标准时间)
+Update time: Sun Dec 11 2016 22:23:38 GMT+0800 (中国标准时间)
 
-I have solved **280 / 421** problems while there are **77** problems still locked.
+I have solved **289 / 437** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
 
@@ -11,8 +11,23 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 475 | [Heaters](https://leetcode.com/problems/heaters/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Heaters/heaters.js) | | Easy |
+| 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ones%20and%20Zeroes/ones-and-zeroes.js) | | Medium |
+| 471 | [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/) | :blue_book: | | Hard |
+| 469 | [Convex Polygon](https://leetcode.com/problems/convex-polygon/) | :blue_book: | | Medium |
+| 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Validate%20IP%20Address/validate-ip-address.js) | | Medium |
+| 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | | | Medium |
+| 466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | | | Hard |
+| 465 | [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) | :blue_book: | | Hard |
+| 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | | | Medium |
+| 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Island%20Perimeter/island-perimeter.js) | | Easy |
+| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/minimum-moves-to-equal-array-elements-ii.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README.md) | Medium |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Repeated%20Substring%20Pattern/repeated-substring-pattern.js) | | Easy |
+| 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | | | Medium |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Assign%20Cookies/assign-cookies.js) | | Easy |
+| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/4Sum%20II/4sum-ii.js) | | Medium |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements/minimum-moves-to-equal-array-elements.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements/README.md) | Easy |
-| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | | | Medium |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/minimum-number-of-arrows-to-burst-balloons.js) | | Medium |
 | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Boomerangs/number-of-boomerangs.js) | | Easy |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | | | Hard |
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | :blue_book: | | Medium |
@@ -23,6 +38,7 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20III/path-sum-iii.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20III/Readme.md) | Easy |
 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Right%20Interval/find-right-interval.js) | | Medium |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | | | Medium |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | | | Easy |
 | 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | | | Hard |
 | 425 | [Word Squares](https://leetcode.com/problems/word-squares/) | :blue_book: | | Hard |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | | | Medium |
