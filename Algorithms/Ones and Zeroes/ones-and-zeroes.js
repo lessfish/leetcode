@@ -10,7 +10,7 @@
  */
 var findMaxForm = function(strs, m, n) {
   /**
-   * [count the number of '0' of a string
+   * [count the number of '0' of a string]
    * @param  {string} str
    * @return {number}
    */
