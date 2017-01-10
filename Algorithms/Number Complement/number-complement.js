@@ -2,7 +2,6 @@
 // Author : Han Zichi
 // Date   : 2017-01-10
 
-
 /**
  * @param {number} num
  * @return {number}
