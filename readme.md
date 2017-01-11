@@ -1,18 +1,21 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Mon Dec 26 2016 09:06:20 GMT+0800 (中国标准时间)
+Update time: Wed Jan 11 2017 20:54:30 GMT+0800 (中国标准时间)
 
-I have solved **296 / 448** problems while there are **80** problems still locked.
+I have solved **300 / 452** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
 
-If you are loving solving leetcode problems, please contact me to enjoy it together!
+If you are loving solving leetcode problems using JavaScript, please contact me to enjoy it together!
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/License%20Key%20Formatting/license-key-formatting.js) | | Medium |
+| 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Magical%20String/magical-string.js) | | Medium |
+| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | | Hard |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Total%20Hamming%20Distance/total-hamming-distance.js) | | Medium |
-| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | | | Easy |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20Complement/number-complement.js) | | Easy |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Heaters/heaters.js) | | Easy |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ones%20and%20Zeroes/ones-and-zeroes.js) | | Medium |
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Matchsticks%20to%20Square/matchsticks-to-square.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Matchsticks%20to%20Square/README.md) | Medium |
@@ -27,6 +30,7 @@ If you are loving solving leetcode problems, please contact me to enjoy it toget
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Island%20Perimeter/island-perimeter.js) | | Easy |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/minimum-moves-to-equal-array-elements-ii.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README.md) | Medium |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Hamming%20Distance/hamming-distance.js) | | Easy |
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | | | Hard |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Repeated%20Substring%20Pattern/repeated-substring-pattern.js) | | Easy |
 | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | | | Medium |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Assign%20Cookies/assign-cookies.js) | | Easy |
@@ -41,7 +45,7 @@ If you are loving solving leetcode problems, please contact me to enjoy it toget
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | | | Hard |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Two%20Numbers%20II/add-two-numbers-ii.js) | | Medium |
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | :blue_book: | | Medium |
-| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | | | Medium |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20All%20Duplicates%20in%20an%20Array/find-all-duplicates-in-an-array.js) | | Medium |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Arranging%20Coins/arranging-coins.js) | | Easy |
 | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | | | Hard |
 | 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | :blue_book: | | Medium |
