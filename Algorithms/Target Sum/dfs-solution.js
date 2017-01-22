@@ -19,6 +19,9 @@ var findTargetSumWays = function(nums, S) {
   if (target & 1)
     return 0;
 
+  if (target < 0)
+    return 0;
+
   target >>= 1;
 
   // select items from nums whose sum is `target`
