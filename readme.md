@@ -1,7 +1,7 @@
-# :pencil2: Leetcode Solutions with JavaScript
-Update time: Wed Jan 11 2017 20:54:30 GMT+0800 (中国标准时间)
+# Leetcode Solutions with JavaScript
+Update time: Mon Jan 23 2017 09:18:54 GMT+0800 (中国标准时间)
 
-I have solved **300 / 452** problems while there are **80** problems still locked.
+I have solved **307 / 461** problems while there are **82** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
 
@@ -11,9 +11,18 @@ If you are loving solving leetcode problems using JavaScript, please contact me 
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Target%20Sum/dfs-solution.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Target%20Sum/README.md) | Medium |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Construct%20the%20Rectangle/construct-the-rectangle.js) | | Easy |
+| 491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Increasing%20Subsequences/use-set.js) | | Medium |
+| 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | | | Hard |
+| 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | :blue_book: | | Medium |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Predict%20the%20Winner/predict-the-winner.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Predict%20the%20Winner/README.md) | Medium |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Max%20Consecutive%20Ones/max-consecutive-ones.js) | | Easy |
+| 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) | :blue_book: | | Medium |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | | | Hard |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/License%20Key%20Formatting/license-key-formatting.js) | | Medium |
 | 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Magical%20String/magical-string.js) | | Medium |
-| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | | Hard |
+| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sliding%20Window%20Median/sliding-window-median.js) | | Hard |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Total%20Hamming%20Distance/total-hamming-distance.js) | | Medium |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20Complement/number-complement.js) | | Easy |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Heaters/heaters.js) | | Easy |
@@ -52,7 +61,7 @@ If you are loving solving leetcode problems using JavaScript, please contact me 
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20All%20Anagrams%20in%20a%20String/find-all-anagrams-in-a-string.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20All%20Anagrams%20in%20a%20String/Readme.md) | Easy |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20III/path-sum-iii.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Path%20Sum%20III/Readme.md) | Easy |
 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Right%20Interval/find-right-interval.js) | | Medium |
-| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | | | Medium |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Non-overlapping%20Intervals/non-overlapping-intervals.js) | | Medium |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20of%20Segments%20in%20a%20String/number-of-segments-in-a-string.js) | | Easy |
 | 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | | | Hard |
 | 425 | [Word Squares](https://leetcode.com/problems/word-squares/) | :blue_book: | | Hard |
