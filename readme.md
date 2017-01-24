@@ -1,7 +1,7 @@
 # Leetcode Solutions with JavaScript
-Update time: Mon Jan 23 2017 09:18:54 GMT+0800 (中国标准时间)
+Update time: Tue Jan 24 2017 11:33:05 GMT+0800 (中国标准时间)
 
-I have solved **307 / 461** problems while there are **82** problems still locked.
+I have solved **310 / 461** problems while there are **82** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
 
@@ -105,9 +105,9 @@ If you are loving solving leetcode problems using JavaScript, please contact me 
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/First%20Unique%20Character%20in%20a%20String/first-unique-character-in-a-string.js) | | Easy |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Lexicographical%20Numbers/lexicographical-numbers.js) | | Medium |
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Mini%20Parser/mini-parser.js) | | Medium |
-| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | | | Medium |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shuffle%20an%20Array/shuffle-an-array.js) | | Medium |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ransom%20Note/ransom-note.js) | | Easy |
-| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | | | Medium |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Linked%20List%20Random%20Node/linked-list-random-node.js) | | Medium |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | | | Hard |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | | Hard |
 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | :blue_book: | | Medium |
@@ -401,7 +401,7 @@ If you are loving solving leetcode problems using JavaScript, please contact me 
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Search%20a%202D%20Matrix/search-a-2d-matrix.js) | | Medium |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Set%20Matrix%20Zeroes/set-matrix-zeroes.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Set%20Matrix%20Zeroes/README.md) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | | | Hard |
-| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | | | Medium |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Simplify%20Path/simplify-path.js) | | Medium |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Climbing%20Stairs/climbing-stairs.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Climbing%20Stairs/README.md) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sqrt(x)/sqrtx.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sqrt(x)/README.md) | Medium |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | | | Hard |
