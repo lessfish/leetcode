@@ -2,6 +2,10 @@
 // to make Git not to track this file anymore
 // 还原: git update-index --no-assume-unchanged generate.js
 
+// Notice:
+// 注意这个 Cookie 要取 https://leetcode.com/api/problems/algorithms/ 下的
+// 而不是 https://leetcode.com/ 下的
+var Cookie = "OUTFOX_SEARCH_USER_ID_NCOO=1270182585.150294; LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhhbnppY2hpIiwiX2F1dGhfdXNlcl9pZCI6IjIwNzA3NCIsInRpbWVzdGFtcCI6IjIwMTctMDEtMDMgMTQ6NTg6MjIuMTUxOTcxKzAwOjAwIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJpZCI6MjA3MDc0LCJfc2Vzc2lvbl9leHBpcnkiOjAsIl9hdXRoX3VzZXJfaGFzaCI6IjY3NzMyMjQzZjBmOGMyZmUwNWEwMGQyZWM3YTc2MGNiOGNhZjdjYjYiLCJlbWFpbCI6ImJpZ2JpZ3N1bnJpc2VAZm94bWFpbC5jb20ifQ.gGlzOUA0NxrfUYkvC8erEvcUTJYp32v2-rMujgO9vrQ; express.sid=s%3AuAx1lTlxg2OTvH1If4gvyZUpScHCQg42.L8TvyU2du93TkKd4KxDB7%2Bl6r%2FFR%2F%2FSBEZYyxBouiAw; csrftoken=kpvx6n4pFNFcDkYX5vfXYr83Zdz8cX0JV28iv3TjdfhPdwzClUPzkZCkqJBhPsIx; _gat=1; _ga=GA1.2.474225388.1483455439; __atuvc=26%7C2%2C7%7C3%2C137%7C4%2C8%7C5%2C42%7C6; __atuvs=589c27ef8a852166001"
 var superagent = require("superagent");
 var cheerio = require("cheerio");
 var fs = require("fs");
@@ -14,20 +18,20 @@ var lockedNum = 0;
 
 function makeMarkdownFile() {
   var str = '';
-  str += '# :pencil2: Leetcode Solutions with JavaScript';
+  str += '# Leetcode Solutions in JavaScript';
   str += '\n';
   str += "Update time: " + new Date;
   str += '\n\n';
   str += "I have solved **" + solvedNum + " / " +  problemNum + "** problems ";
-  str += "while there are **" + lockedNum + "** problems still locked."
+  str += "while **" + lockedNum + "** problems are still locked."
   str += '\n\n';
   str += 'If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).';
   str += '\n\n';
-  str += 'If you are loving solving problems using JavaScript, please contact me to enjoy it together!'
+  str += 'If you are loving solving leetcode problems in JavaScript, please contact me to enjoy it together!'
   str += '\n\n';
   str += '(Notes: :blue_book: means you need to buy a book from Leetcode)';
   str += '\n\n';
-  str += '| # | Title | Source Code | Explaination | Difficulty |';
+  str += '| # | Title | Source Code | Explanation | Difficulty |';
   str += '\n';
   str += '|:---:|:---:|:---:|:---:|:---:|';
   str += '\n';
@@ -45,7 +49,7 @@ function makeMarkdownFile() {
     var url = item.url;
     var language = item.language;
     var sourceCode = item.sourceCode;
-    var explaination = item.explaination;
+    var explanation = item.explanation;
     var difficulty = item.difficulty;
     var isSolved = item.isSolved;
     var isLocked = item.isLocked;
@@ -62,8 +66,8 @@ function makeMarkdownFile() {
       str += '| ';
     }
 
-    if (explaination)
-      str += '| ' + '[Explaination](' + explaination + ') ';
+    if (explanation)
+      str += '| ' + '[Explanation](' + explanation + ') ';
     else {
       str += '| ';
     }
@@ -92,7 +96,7 @@ function dealWithFile() {
         fs.readdir(fileSrc, function(err, files) {
           files.forEach(function(fileName) {
             if (~fileName.indexOf("md")) {
-              p.explaination = encodeURI(baseNetSrc + p.title + '/' + fileName);
+              p.explanation = encodeURI(baseNetSrc + p.title + '/' + fileName);
             }
 
             if (~fileName.indexOf("js")) {
@@ -118,29 +122,31 @@ function dealWithFile() {
 
 function makeRequest() {
   superagent
-    .get("https://leetcode.com/problemset/algorithms/")
-    .set("Cookie", "PHPSESSID=qvcevokh3nhdga6tpfzgvi2lqu078bu0")  // for logining in
+    .get("https://leetcode.com/api/problems/algorithms/")
+    .set("Cookie", Cookie)  // for logining in
+    .set("User-Agent", "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36")
     .end(function(err, res) {
-      var $ = cheerio.load(res.text);
+      var str = res.text;
+      var data = JSON.parse(str);
+      var arr = data.stat_status_pairs;
 
-      $('#problemList tbody tr').each(function(index, item) {
-        var ele = $(item).children();
+      problemNum = data.num_total;
+      solvedNum = data.num_solved;
+
+      arr.forEach(function(item, index) {
         var obj = {
-          isSolved: ele.eq(0).html().indexOf("\"ac\"") !== -1,
-          problemId: ele.eq(1).html(),
-          title: ele.eq(2).find("a").text(),
-          url: "https://leetcode.com" + ele.eq(2).find("a").attr("href"),
-          isLocked: ele.eq(2).html().indexOf("fa") !== -1,
-          difficulty: ele.eq(6).html()
+          isSolved: item.status === "ac",
+          problemId: item.stat.question_id,
+          title: item.stat.question__title,
+          url: "https://leetcode.com/problems/" + item.stat.question__title_slug + '/',
+          isLocked: item.paid_only === true,
+          difficulty: ['', 'Easy', 'Medium', 'Hard'][item.difficulty.level]
         };
 
         ans.push(obj);
-        problemNum ++;
-        obj.isSolved && solvedNum ++;
-        obj.isLocked && lockedNum ++;
+        obj.isLocked && lockedNum++;
       });
 
-      // console.log(problemNum, solvedNum, lockedNum)
       dealWithFile();
     });
 }
