@@ -16,12 +16,11 @@
 var largestValues = function(root) {
   let maxn = [];
 
+  let getMax = (a, b = -Number.MAX_VALUE) => Math.max(a, b);
+
   let dfs = (node, step) => {
     if (!node) return;
-    if (maxn[step] === void 0)
-      maxn[step] = node.val;
-    else
-      maxn[step] = Math.max(node.val, maxn[step]);
+    maxn[step] = getMax(node.val, maxn[step]);
     dfs(node.left, step + 1);
     dfs(node.right, step + 1);
   };
@@ -29,3 +28,4 @@ var largestValues = function(root) {
   dfs(root, 0);
   return maxn;
 };
+
