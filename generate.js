@@ -5,7 +5,7 @@
 // Notice:
 // 注意这个 Cookie 要取 https://leetcode.com/api/problems/algorithms/ 下的
 // 而不是 https://leetcode.com/ 下的
-var Cookie = "OUTFOX_SEARCH_USER_ID_NCOO=1270182585.150294; LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhhbnppY2hpIiwiX2F1dGhfdXNlcl9pZCI6IjIwNzA3NCIsInRpbWVzdGFtcCI6IjIwMTctMDEtMDMgMTQ6NTg6MjIuMTUxOTcxKzAwOjAwIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJpZCI6MjA3MDc0LCJfc2Vzc2lvbl9leHBpcnkiOjAsIl9hdXRoX3VzZXJfaGFzaCI6IjY3NzMyMjQzZjBmOGMyZmUwNWEwMGQyZWM3YTc2MGNiOGNhZjdjYjYiLCJlbWFpbCI6ImJpZ2JpZ3N1bnJpc2VAZm94bWFpbC5jb20ifQ.gGlzOUA0NxrfUYkvC8erEvcUTJYp32v2-rMujgO9vrQ; express.sid=s%3AuAx1lTlxg2OTvH1If4gvyZUpScHCQg42.L8TvyU2du93TkKd4KxDB7%2Bl6r%2FFR%2F%2FSBEZYyxBouiAw; csrftoken=kpvx6n4pFNFcDkYX5vfXYr83Zdz8cX0JV28iv3TjdfhPdwzClUPzkZCkqJBhPsIx; _gat=1; _ga=GA1.2.474225388.1483455439; __atuvc=26%7C2%2C7%7C3%2C137%7C4%2C8%7C5%2C42%7C6; __atuvs=589c27ef8a852166001"
+var Cookie = "OUTFOX_SEARCH_USER_ID_NCOO=1270182585.150294; LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhhbnppY2hpIiwidXNlcl9zbHVnIjoiaGFuemljaGkiLCJfYXV0aF91c2VyX2lkIjoiMjA3MDc0IiwidGltZXN0YW1wIjoiMjAxNy0wMi0xNiAxMTo0MToxOS45MTI2NjcrMDA6MDAiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsImlkIjoyMDcwNzQsIl9zZXNzaW9uX2V4cGlyeSI6MCwiX2F1dGhfdXNlcl9oYXNoIjoiNjc3MzIyNDNmMGY4YzJmZTA1YTAwZDJlYzdhNzYwY2I4Y2FmN2NiNiIsImVtYWlsIjoiYmlnYmlnc3VucmlzZUBmb3htYWlsLmNvbSJ9.Howj_ZPQs9IAE22zfV4Ly_KwPZzD4w5W2-Sz_wp1Bbs; express.sid=s%3AuAx1lTlxg2OTvH1If4gvyZUpScHCQg42.L8TvyU2du93TkKd4KxDB7%2Bl6r%2FFR%2F%2FSBEZYyxBouiAw; csrftoken=bmPSY3AtNuo4iKpQ5KLfU0ElDX7AYka5iVQ8WgxNsJbepIdruoSvkQBfutFOXHXB; _ga=GA1.2.474225388.1483455439; __atuvc=8%7C5%2C43%7C6%2C23%7C7%2C0%7C8%2C23%7C9; __atuvs=58b68ccb38902096002"
 var superagent = require("superagent");
 var cheerio = require("cheerio");
 var fs = require("fs");
@@ -104,6 +104,9 @@ function dealWithFile() {
               p.sourceCode = encodeURI(baseNetSrc + p.title + '/' + fileName);
             } else if (~fileName.indexOf("cpp")) {
               p.language = "C++";
+              p.sourceCode = encodeURI(baseNetSrc + p.title + '/' + fileName);
+            } else if (~fileName.indexOf("py")) {
+              p.language = "Python";
               p.sourceCode = encodeURI(baseNetSrc + p.title + '/' + fileName);
             }
           });

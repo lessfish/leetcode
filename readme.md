@@ -1,7 +1,7 @@
 # Leetcode Solutions in JavaScript
-Update time: Thu Feb 09 2017 16:34:10 GMT+0800 (中国标准时间)
+Update time: Wed Mar 01 2017 17:29:40 GMT+0800 (中国标准时间)
 
-I have solved **319 / 477** problems while **85** problems are still locked.
+I have solved **325 / 490** problems while **85** problems are still locked.
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
 
@@ -11,6 +11,17 @@ If you are loving solving leetcode problems in JavaScript, please contact me to 
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | | | Easy |
+| 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | | | Medium |
+| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Beautiful%20Arrangement/beautiful-arrangement.js) | | Medium |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | | | Medium |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | | | Medium |
+| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/continuous-subarray-sum.py) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/README.md) | Medium |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Detect%20Capital/detect-capital.js) | | Easy |
+| 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | | Hard |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | | | Medium |
+| 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Largest%20Value%20in%20Each%20Tree%20Row/find-largest-value-in-each-tree-row.js) | | Medium |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Bottom%20Left%20Tree%20Value/find-bottom-left-tree-value.js) | | Medium |
 | 512 | [Price Query System](https://leetcode.com/problems/price-query-system/) | | | Easy |
 | 511 | [String Lengths Average and 95th Percentile](https://leetcode.com/problems/string-lengths-average-and-95th-percentile/) | | | Easy |
 | 510 | [Design Logging](https://leetcode.com/problems/design-logging/) | | | Easy |
@@ -18,6 +29,7 @@ If you are loving solving leetcode problems in JavaScript, please contact me to 
 | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Most%20Frequent%20Subtree%20Sum/most-frequent-subtree-sum.js) | | Medium |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Relative%20Ranks/relative-ranks.js) | | Easy |
 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) | :blue_book: | | Medium |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Base%207/base-7.js) | | Easy |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Next%20Greater%20Element%20II/diagonal-traverse.js) | | Medium |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/IPO/ipo.js) | | Hard |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Mode%20in%20Binary%20Search%20Tree/find-mode-in-binary-search-tree.js) | | Easy |
@@ -27,6 +39,7 @@ If you are loving solving leetcode problems in JavaScript, please contact me to 
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Next%20Greater%20Element%20I/next-greater-element-i.js) | | Easy |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Teemo%20Attacking/teemo-attacking.js) | | Medium |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Target%20Sum/dfs-solution.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Target%20Sum/README.md) | Medium |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | | | Hard |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Construct%20the%20Rectangle/construct-the-rectangle.js) | | Easy |
 | 491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Increasing%20Subsequences/use-set.js) | | Medium |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/) | :blue_book: | | Medium |
