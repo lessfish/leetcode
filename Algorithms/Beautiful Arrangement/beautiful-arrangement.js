@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/beautiful-arrangement/?tab=Description
 // Author : Han Zichi
-// Date   : 2016-02-27
+// Date   : 2017-02-27
 
 /**
  * @param {number} N
