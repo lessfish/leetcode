@@ -22,4 +22,4 @@ class Solution(object):
                 if rows[pos] == 1:
                     ans += 1
 
-        return ans;
+        return ans
