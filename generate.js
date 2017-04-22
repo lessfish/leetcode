@@ -3,7 +3,6 @@
 // recover
 // git update-index --no-assume-unchanged generate.js
 
-
 const superagent = require("superagent");
 const cheerio = require("cheerio");
 const fs = require("fs");
