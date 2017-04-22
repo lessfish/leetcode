@@ -1,34 +1,54 @@
 # Leetcode Solutions with JavaScript
 
-Update time: Tue Mar 07 2017 14:00:15 GMT+0800 (中国标准时间)
+Update time: Sun Apr 23 2017 04:51:55 GMT+0800 (CST)
 
-I have solved **330 / 495** problems while **87** problems are still locked.
+I have solved **343 / 515** problems while **94** problems are still locked.
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
-| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | | | Medium |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | | | Easy |
+| 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | | | Medium |
+| 555 | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/) :blue_book: | | | Medium |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | | | Medium |
+| 553 | [Optimal Division](https://leetcode.com/problems/optimal-division/) | | | Medium |
+| 552 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | | | Hard |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | | | Easy |
+| 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) :blue_book: | | | Medium |
+| 548 | [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/) :blue_book: | | | Medium |
+| 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Friend%20Circles/friend-circles.py) | | Medium |
+| 546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | | | Hard |
+| 545 | [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/) :blue_book: | | | Medium |
+| 544 | [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/) :blue_book: | | | Medium |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Diameter%20of%20Binary%20Tree/diameter-of-binary-tree.py) | | Easy |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/01%20Matrix/01-matrix.js) | | Medium |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String%20II/reverse-string-ii.py) | | Easy |
+| 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Time%20Difference/minimum-time-difference.js) | | Medium |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Convert%20BST%20to%20Greater%20Tree/convert-bst-to-greater-tree.py) | | Medium |
+| 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Complex%20Number%20Multiplication/complex-number-multiplication.py) | | Medium |
+| 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) :blue_book: | | | Medium |
+| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Encode%20and%20Decode%20TinyURL/encode-and-decode-tinyurl.js) | | Medium |
 | 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) :blue_book: | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Lonely%20Pixel%20II/lonely-pixel-ii.py) | | Medium |
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/K-diff%20Pairs%20in%20an%20Array/k-diff-pairs-in-an-array.py) | | Easy |
 | 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) :blue_book: | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Lonely%20Pixel%20I/lonely-pixel-i.py) | | Medium |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Absolute%20Difference%20in%20BST/minimum-absolute-difference-in-bst.py) | | Easy |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minesweeper/minesweeper.py) | | Medium |
+| 527 | [Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) :blue_book: | | | Hard |
 | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Beautiful%20Arrangement/beautiful-arrangement.js) | | Medium |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | | | Medium |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | | | Medium |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/continuous-subarray-sum.py) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/README.md) | Medium |
+| 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | | | Medium |
+| 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Uncommon%20Subsequence%20I/longest-uncommon-subsequence-i.py) | | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Detect%20Capital/detect-capital.js) | | Easy |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | | Hard |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | | | Medium |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Largest%20Value%20in%20Each%20Tree%20Row/find-largest-value-in-each-tree-row.js) | | Medium |
 | 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | | | Hard |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20Bottom%20Left%20Tree%20Value/find-bottom-left-tree-value.js) | | Medium |
-| 512 | [Price Query System](https://leetcode.com/problems/price-query-system/) | | | Easy |
-| 511 | [String Lengths Average and 95th Percentile](https://leetcode.com/problems/string-lengths-average-and-95th-percentile/) | | | Easy |
-| 510 | [Design Logging](https://leetcode.com/problems/design-logging/) | | | Easy |
-| 509 | [Points in Intervals](https://leetcode.com/problems/points-in-intervals/) | | | Easy |
 | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Most%20Frequent%20Subtree%20Sum/most-frequent-subtree-sum.js) | | Medium |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Perfect%20Number/perfect-number.py) | | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Relative%20Ranks/relative-ranks.js) | | Easy |
 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) :blue_book: | | | Medium |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Base%207/base-7.js) | | Easy |
@@ -122,7 +142,7 @@ I have solved **330 / 495** problems while **87** problems are still locked.
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Watch/binary-watch.js) | | Easy |
 | 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Nth%20Digit/nth-digit.js) | | Easy |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | | | Medium |
-| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | | | Medium |
+| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Random%20Pick%20Index/random-pick-index.py) | | Medium |
 | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Integer%20Replacement/integer-replacement.js) | | Medium |
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rotate%20Function/rotate-function.js) | | Medium |
 | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/not-a-good-solution.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/readme.md) | Medium |
@@ -139,8 +159,8 @@ I have solved **330 / 495** problems while **87** problems are still locked.
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Shuffle%20an%20Array/shuffle-an-array.js) | | Medium |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Ransom%20Note/ransom-note.js) | | Easy |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Linked%20List%20Random%20Node/linked-list-random-node.js) | | Medium |
-| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | | | Hard |
-| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | | Medium |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/insert-delete-getrandom-o1-duplicates-allowed.py) | | Hard |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Insert%20Delete%20GetRandom%20O(1)/insert-delete-getrandom-o1.py) | | Medium |
 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) :blue_book: | | | Medium |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/kth-smallest-element-in-a-sorted-matrix.js) | | Medium |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Combination%20Sum%20IV/combination-sum-iv.js) | | Medium |
