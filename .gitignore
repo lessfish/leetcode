@@ -2,3 +2,4 @@ node_modules
 template.js
 template.py
 .DS_Store
+generate.js
