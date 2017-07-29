@@ -1,13 +1,69 @@
 # Leetcode Solutions with JavaScript
 
-Update time: Sun Apr 23 2017 04:51:55 GMT+0800 (CST)
+Update time: Sat Jul 29 2017 11:54:31 GMT+0800 (CST)
 
-I have solved **343 / 515** problems while **94** problems are still locked.
+I have solved **344 / 573** problems while **107** problems are still locked.
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | | | Medium |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | | | Medium |
+| 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | | | Medium |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | | | Easy |
+| 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | | | Hard |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | | | Easy |
+| 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) :blue_book: | | | Hard |
+| 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | | | Medium |
+| 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | | | Hard |
+| 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | | | Medium |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | | | Easy |
+| 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | | | Medium |
+| 635 | [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/) :blue_book: | | | Medium |
+| 634 | [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) :blue_book: | | | Medium |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sum%20of%20Square%20Numbers/sum-of-square-numbers.js) / [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sum%20of%20Square%20Numbers/sum-of-square-numbers.py) | | Easy |
+| 632 | [Smallest Range](https://leetcode.com/problems/smallest-range/) | | | Hard |
+| 631 | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) :blue_book: | | | Hard |
+| 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | | | Hard |
+| 629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | | | Hard |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | | | Easy |
+| 625 | [Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) :blue_book: | | | Medium |
+| 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :blue_book: | | | Easy |
+| 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | | | Medium |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | | | Medium |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | | | Easy |
+| 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) :blue_book: | | | Medium |
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | | | Medium |
+| 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | | | Medium |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | | | Easy |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | | Easy |
+| 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) :blue_book: | | | Easy |
+| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | | | Hard |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | | | Easy |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | | | Easy |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | | | Easy |
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | | | Medium |
+| 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | | | Medium |
+| 591 | [Tag Validator](https://leetcode.com/problems/tag-validator/) | | | Hard |
+| 588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) :blue_book: | | | Hard |
+| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | | | Hard |
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | | | Medium |
+| 582 | [Kill Process](https://leetcode.com/problems/kill-process/) :blue_book: | | | Medium |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | | | Easy |
+| 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | | | Medium |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | | | Easy |
+| 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) :blue_book: | | | Medium |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | | | Easy |
+| 568 | [Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/) :blue_book: | | | Hard |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | | | Medium |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | | | Easy |
+| 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | | | Medium |
+| 564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | | | Hard |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | | | Easy |
+| 562 | [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) :blue_book: | | | Medium |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | | | Easy |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | | | Medium |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | | | Easy |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | | | Medium |
 | 555 | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/) :blue_book: | | | Medium |
@@ -24,8 +80,9 @@ I have solved **343 / 515** problems while **94** problems are still locked.
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Diameter%20of%20Binary%20Tree/diameter-of-binary-tree.py) | | Easy |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/01%20Matrix/01-matrix.js) | | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20String%20II/reverse-string-ii.py) | | Easy |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | | | Medium |
 | 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Minimum%20Time%20Difference/minimum-time-difference.js) | | Medium |
-| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Convert%20BST%20to%20Greater%20Tree/convert-bst-to-greater-tree.py) | | Medium |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Convert%20BST%20to%20Greater%20Tree/convert-bst-to-greater-tree.py) | | Easy |
 | 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Complex%20Number%20Multiplication/complex-number-multiplication.py) | | Medium |
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) :blue_book: | | | Medium |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Encode%20and%20Decode%20TinyURL/encode-and-decode-tinyurl.js) | | Medium |
@@ -40,7 +97,7 @@ I have solved **343 / 515** problems while **94** problems are still locked.
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | | | Medium |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/continuous-subarray-sum.py) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/README.md) | Medium |
 | 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | | | Medium |
-| 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Uncommon%20Subsequence%20I/longest-uncommon-subsequence-i.py) | | Easy |
+| 521 | [Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Uncommon%20Subsequence%20I%20/longest-uncommon-subsequence-i.py) | | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Detect%20Capital/detect-capital.js) | | Easy |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | | Hard |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | | | Medium |
@@ -74,6 +131,7 @@ I have solved **343 / 515** problems while **94** problems are still locked.
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/License%20Key%20Formatting/license-key-formatting.js) | | Medium |
 | 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Magical%20String/magical-string.js) | | Medium |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sliding%20Window%20Median/sliding-window-median.js) | | Hard |
+| 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | | | Easy |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Total%20Hamming%20Distance/total-hamming-distance.js) | | Medium |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Number%20Complement/number-complement.js) | | Easy |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Heaters/heaters.js) | | Easy |
@@ -177,7 +235,7 @@ I have solved **343 / 515** problems while **94** problems are still locked.
 | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) :blue_book: | | | Medium |
 | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | | | Medium |
 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) :blue_book: | | | Medium |
-| 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/) | | | Hard |
+| 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | | | Hard |
 | 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) :blue_book: | | | Medium |
 | 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) :blue_book: | | | Medium |
 | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) :blue_book: | | | Medium |
@@ -474,7 +532,7 @@ I have solved **343 / 515** problems while **94** problems are still locked.
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/N-Queens%20II/n-queens-ii.js) | | Hard |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/N-Queens/n-queens.js) | | Hard |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pow(x,%20n)/powx-n.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Pow(x,%20n)/README.md) | Medium |
-| 49 | [Group Anagrams](https://leetcode.com/problems/anagrams/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Group%20Anagrams/anagrams.js) | | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Group%20Anagrams/anagrams.js) | | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Rotate%20Image/rotate-image.js) | | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Permutations%20II/permutations-ii.js) | | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Permutations/permutations.js) | | Medium |
