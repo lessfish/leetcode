@@ -1,53 +1,53 @@
-// Source : https://leetcode.com/problems/3sum/
-// Author : Han Zichi
-// Date   : 2016-02-04
+// Source    : https://leetcode.com/problems/3sum/
+// Author    : Han Zichi
+// Date      : 2017-10-08
+// Complexity: O(n^2)
 
 /**
  * @param {number[]} nums
  * @return {number[][]}
  */
 var threeSum = function(nums) {
-  var hash = {}
-    , len = nums.length;
+  nums.sort((a, b) => a - b)
 
-  nums.sort(function(a, b) {
-    return a - b;
-  });
+  let ans = []
+  let len = nums.length
 
-  for (var i = 0; i < len; i++) {
-    var item = nums[i];
-    if (!hash[item])
-      hash[item] = 1;
-    else 
-      hash[item]++;
+  // enumerate the array, and assume the item to be the smallest one
+  for (let i = 0; i < len; i++ ) { 
+
+    // have already enumerate the item as the smallest one among the three
+    // then continue
+    if (i && nums[i] === nums[i - 1]) continue 
+
+    // the sum of another two should be
+    let target = -nums[i]
+
+    // the indexes of another two 
+    let [start, end] = [i + 1, len - 1]
+
+    while (start < end) {
+      let sum = nums[start] + nums[end]
+
+      if (sum > target) {
+        end--
+      } else if (sum < target) {
+        start++
+      } else {
+        ans.push([nums[i], nums[start], nums[end]])
+        
+        // remove the duplication
+        while (nums[start] === nums[start + 1]) 
+          start++
+        start++
+
+        // remove the duplication
+        while (nums[end] === nums[end - 1])
+          end--
+        end--
+      }
+    }
   }
 
-  var ans = [];
-  var hashSet = {};
-
-  for (var i = 0; i < len; i++)
-    for (var j = i + 1; j < len; j++) {
-      var a = nums[i]
-        , b = nums[j]
-        , c = 0 - a - b;
-
-      if (c < b) 
-        break;
-
-      if (hashSet[a + ',' + b + ',' + c])
-        continue;
-
-      hash[a]--;
-      hash[b]--;
-
-      if (hash[c]) {
-        hashSet[a + ',' + b + ',' + c] = true;
-        ans.push([a, b, c]);
-      }
-
-      hash[a]++;
-      hash[b]++;
-    }
-
-    return ans;
-};
+  return ans
+}
