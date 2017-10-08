@@ -1,6 +1,6 @@
-# Leetcode Solutions with JavaScript
+# Leetcode Solutions with JavaScript [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-Update time: Sun Oct 08 2017 21:38:27 GMT+0800 (CST)
+Update time: Sun Oct 08 2017 21:45:17 GMT+0800 (CST)
 
 I have solved **344 / 618** problems while **114** problems are still locked.
 
