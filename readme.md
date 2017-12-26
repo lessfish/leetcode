@@ -1,16 +1,64 @@
 # Leetcode Solutions with JavaScript [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-Update time: Sun Oct 08 2017 21:45:17 GMT+0800 (CST)
+Update time: Tue Dec 26 2017 22:27:14 GMT+0800 (CST)
 
-I have solved **344 / 618** problems while **114** problems are still locked.
+I have solved **350 / 668** problems while **124** problems are still locked.
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 754 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | | | Hard |
+| 753 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | | | Medium |
+| 752 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | | | Medium |
+| 751 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) :blue_book: | | | Medium |
+| 750 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | | | Hard |
+| 749 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | | | Medium |
+| 748 | [Largest Number Greater Than Twice of Others](https://leetcode.com/problems/largest-number-greater-than-twice-of-others/) | | | Easy |
+| 747 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | | | Easy |
+| 746 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | | | Hard |
+| 745 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | | | Easy |
+| 744 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | | | Medium |
+| 743 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) :blue_book: | | | Medium |
+| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | | | Hard |
+| 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | | | Medium |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Daily%20Temperatures/daily-temperatures.js) [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Daily%20Temperatures/daily-temperatures.py) | | Medium |
+| 738 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | | | Medium |
+| 737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) :blue_book: | | | Medium |
+| 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) | | | Hard |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | | | Medium |
+| 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) :blue_book: | | | Easy |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | | | Easy |
+| 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | | | Hard |
+| 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | | | Medium |
+| 730 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | | | Hard |
+| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | | | Medium |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | | | Easy |
+| 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) :blue_book: | | | Hard |
+| 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | | | Hard |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | | | Medium |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | | | Easy |
+| 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/) :blue_book: | | | Medium |
+| 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/) | | | Medium |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | | | Medium |
+| 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | | | Easy |
+| 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | | | Hard |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | | | Medium |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | | | Easy |
+| 716 | [Max Stack](https://leetcode.com/problems/max-stack/) :blue_book: | | | Hard |
+| 715 | [Range Module](https://leetcode.com/problems/range-module/) | | | Hard |
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | | | Medium |
+| 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | | | Medium |
+| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | | | Medium |
+| 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) :blue_book: | | | Hard |
+| 699 | [Falling Squares](https://leetcode.com/problems/falling-squares/) | | | Hard |
+| 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | | | Medium |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Degree%20of%20an%20Array/degree-of-an-array.js) [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Degree%20of%20an%20Array/degree-of-an-array.py) | | Easy |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | | | Easy |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | | | Easy |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) :blue_book: | | | Medium |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | | | Easy |
+| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | | | Medium |
 | 691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | | | Hard |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | | | Easy |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | | | Hard |
@@ -19,9 +67,9 @@ I have solved **344 / 618** problems while **114** problems are still locked.
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | | | Easy |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | | | Hard |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | | | Medium |
-| 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | | | Hard |
+| 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) :blue_book: | | | Hard |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | | | Easy |
-| 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | | | Medium |
+| 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) :blue_book: | | | Medium |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | | | Easy |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | | | Hard |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | | | Medium |
@@ -64,7 +112,7 @@ I have solved **344 / 618** problems while **114** problems are still locked.
 | 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | | | Medium |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | | | Hard |
 | 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | | | Medium |
-| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | | | Easy |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Average%20of%20Levels%20in%20Binary%20Tree/average-of-levels-in-binary-tree.js) [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Average%20of%20Levels%20in%20Binary%20Tree/average-of-levels-in-binary-tree.py) | | Easy |
 | 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | | | Medium |
 | 635 | [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/) :blue_book: | | | Medium |
 | 634 | [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) :blue_book: | | | Medium |
@@ -98,18 +146,19 @@ I have solved **344 / 618** problems while **114** problems are still locked.
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) :blue_book: | | | Medium |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | | | Easy |
 | 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | | | Medium |
-| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | | | Easy |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Distribute%20Candies/distribute-candies.js) [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Distribute%20Candies/distribute-candies.py) | | Easy |
 | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) :blue_book: | | | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | | | Easy |
 | 568 | [Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/) :blue_book: | | | Hard |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | | | Medium |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | | | Easy |
+| 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | | | Medium |
 | 564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | | | Hard |
-| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | | | Easy |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Tilt/binary-tree-tilt.js) [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Binary%20Tree%20Tilt/binary-tree-tilt.py) | | Easy |
 | 562 | [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) :blue_book: | | | Medium |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | | | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | | | Medium |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | | | Easy |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String%20III/reverse-words-in-a-string-iii.js) [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String%20III/reverse-words-in-a-string-iii.py) | | Easy |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | | | Medium |
 | 555 | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/) :blue_book: | | | Medium |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | | | Medium |
@@ -173,7 +222,7 @@ I have solved **344 / 618** problems while **114** problems are still locked.
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Max%20Consecutive%20Ones/max-consecutive-ones.js) | | Easy |
 | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) :blue_book: | | | Medium |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | | | Hard |
-| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/License%20Key%20Formatting/license-key-formatting.js) | | Medium |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/License%20Key%20Formatting/license-key-formatting.js) | | Easy |
 | 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Magical%20String/magical-string.js) | | Medium |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Sliding%20Window%20Median/sliding-window-median.js) | | Hard |
 | 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | | | Easy |
@@ -208,6 +257,7 @@ I have solved **344 / 618** problems while **114** problems are still locked.
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | | | Hard |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Add%20Two%20Numbers%20II/add-two-numbers-ii.js) | | Medium |
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) :blue_book: | | | Medium |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/) | | | Easy |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Find%20All%20Duplicates%20in%20an%20Array/find-all-duplicates-in-an-array.js) | | Medium |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Arranging%20Coins/arranging-coins.js) | | Easy |
 | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | | | Hard |
