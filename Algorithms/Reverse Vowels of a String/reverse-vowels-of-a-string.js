@@ -6,29 +6,31 @@
  * @param {string} s
  * @return {string}
  */
-var reverseVowels = function(s) {
-  var vowelString = "aeiouAEIOU"
-    , arr = s.split('')
-    , len = arr.length;
-  
+const vowelString = "aeiouAEIOU";
+function getVowelArr(len, arr) {
   var vowelArr = [];
 
   for (var i = 0; i < len; i++) {
-    if (vowelString.indexOf(arr[i]) !== -1)
+    if (vowelString.includes(arr[i])) {
       vowelArr.push(arr[i]);
+    }
   }
+  return vowelArr;
+}
+var reverseVowels = function(s) {
+  var arr = s.split(""),
+    len = arr.length;
+  //first in last out
+  let vowelStack = getVowelArr(len, arr);
 
-  vowelArr.reverse();
-
-  var ansStr = ''
-    , idx = 0;
-
+  var ansStr = "";
   for (var i = 0; i < len; i++) {
-    if (vowelString.indexOf(arr[i]) !== -1)
-      ansStr += vowelArr[idx++];
-    else 
+    if (vowelString.includes(arr[i])) {
+      ansStr += vowelStack.pop();
+    } else {
       ansStr += arr[i];
+    }
   }
-  
+
   return ansStr;
 };
