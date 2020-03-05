@@ -1,8 +1,6 @@
 # Leetcode Solutions with JavaScript [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**欢迎关注我的个人公众号，不定期分享工作中的偷懒小技巧～**
-
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fxeibvj2xoj30760760t6.jpg)
+**欢迎关注我的个人公众号「码农随手记」**
 
 ---
 
