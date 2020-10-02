@@ -192,7 +192,7 @@ I have solved **350 / 668** problems while **124** problems are still locked.
 | 527 | [Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) :blue_book: | | | Hard |
 | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Beautiful%20Arrangement/beautiful-arrangement.js) | | Medium |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | | | Medium |
-| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | | | Medium |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Word%20in%20Dictionary%20through%20Deleting/beautiful-arrangement.js) | | Medium |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/continuous-subarray-sum.py) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Continuous%20Subarray%20Sum/README.md) | Medium |
 | 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | | | Medium |
 | 521 | [Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Python](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Longest%20Uncommon%20Subsequence%20I%20/longest-uncommon-subsequence-i.py) | | Easy |
