@@ -1,7 +1,5 @@
 # Leetcode Solutions with JavaScript [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
----
-
 Update time: Tue Dec 26 2017 22:27:14 GMT+0800 (CST)
 
 I have solved **350 / 668** problems while **124** problems are still locked.
