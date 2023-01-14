@@ -1,7 +1,5 @@
 # Leetcode Solutions with JavaScript [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**欢迎关注我的个人公众号「码农随手记」**
-
 ---
 
 Update time: Tue Dec 26 2017 22:27:14 GMT+0800 (CST)
